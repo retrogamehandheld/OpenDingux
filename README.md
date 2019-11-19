@@ -5,7 +5,7 @@ List of software packages available for OpenDingux handhelds, along with their m
 
 Project | Maintainer | Status | Source Code/Project Page 
 ------- | ---------- | ---- | -----------
-GnGeo   | @jbanes | Active | https://github.com/jbanes/gngeoux
+GnGeo   | @jbanes | Active | https://github.com/jbanes/gngeo
 ScummVM | @jbanes | Active | https://github.com/jbanes/scummvm
 
 
