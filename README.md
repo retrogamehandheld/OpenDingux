@@ -7,6 +7,7 @@ Project | Maintainer | Status | Source Code/Project Page/OPK Download
 ------- | ---------- | ---- | -----------
 GnGeo   | @jbanes | Active | https://github.com/jbanes/gngeo
 ScummVM | @jbanes | Active | https://github.com/jbanes/scummvm
+Gambatte | @hi-ban | Active | https://github.com/bardeci/dot-matrix-simulator
 Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/dingux-atari.opk)
 Handy (Atari Lynx) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/handy.opk)
 
