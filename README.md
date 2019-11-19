@@ -1,5 +1,5 @@
-# OpenDingux
-Non-device-specific code, projects, and wiki pages relating specifically to the OpenDingux operating system
+# OpenDingux Software list
+List of software packages available for OpenDingux handhelds, along with their maintainer, project status, and link to the project page itself (for reporting issues)
 
 ## Emulators
 
