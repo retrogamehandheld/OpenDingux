@@ -19,3 +19,4 @@ Mr. Drillux | @jbanes | Active | https://github.com/jbanes/rs97-mrdrillux
 Arkanoid | Unknown | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/Arkanoid.opk)
 OpenJazz | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/openjazz.opk)
 SuperTux | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/supertux.opk)
+PrBoom | @Ninoh-FOX | Active | https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350
