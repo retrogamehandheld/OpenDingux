@@ -12,7 +12,7 @@ Dingux-7800 | @npaladin2000 | Active | https://github.com/retrogamehandheld/Open
 Dingux-colem | @npaladin2000 | Active | https://github.com/retrogamehandheld/OpenDingux/tree/master/dingux-colem
 Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/dingux-atari.opk)
 Handy (Atari Lynx) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/handy.opk)
-GPSP GameboyColor) | @Ninoh-FOX | Active | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/gpsp.opk)
+GPSP (GBA) | @Ninoh-FOX | Active | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/gpsp.opk)
 
 
 ## Games
