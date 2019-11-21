@@ -13,7 +13,7 @@ Dingux-colem | @npaladin2000 | Active | https://github.com/retrogamehandheld/Ope
 Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/dingux-atari.opk)
 Handy (Atari Lynx) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/handy.opk)
 GPSP (GBA) | @Ninoh-FOX | Active | https://github.com/Ninoh-FOX/gpsp-rg350
-
+OSwan (Wonderswan) | @Gameblabla | Active | https://github.com/gameblabla/oswan
 
 ## Games
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
