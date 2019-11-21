@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Dingux7800
+Comment=Atari 7800 emulator
+Exec=dingux-7800 %u
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=a7800
+Categories=emulators;
