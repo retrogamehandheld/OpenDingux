@@ -1,0 +1,1 @@
+This is the current home of the Atari 7800 Prosystem Emulator OPK for OpenDingux. Unfortunately, it's a bit of a hack to get working, but it is functional. Should anyone be able to provide the original source code so that proper modifications can be made for OpenDingux compatibility, please let me know. I'm more of a caretaker than a maintainer right now. 
