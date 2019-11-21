@@ -1,5 +1,5 @@
 # OpenDingux Software list
-List of software packages available for OpenDingux handhelds, along with their maintainer, project status, and link to the project page itself (for reporting issues)
+This is the list of software that we know is out there so far, but needs a home. Please feel free to take responsibility for anything you feel you own. 
 
 ## Console Emulators
 
