@@ -6,7 +6,7 @@ This is the list of software that we know is out there so far, but needs a home.
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
 ------- | ---------- | ---- | -----------
 Stella (Atari 2600)   | ???? | ???? | ????
-JZIntv (Intellivision)    | ???? | ???? | ????
+JZIntv (Intellivision)    | @DavidKnight247| Inactive | https://github.com/DavidKnight247/jzIntv
 Odyssey2    | ???? | ???? | ????
 Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/dingux-atari.opk)
 Dingux-7800 | @npaladin2000 | Active | [GitHub](https://github.com/retrogamehandheld/OpenDingux/tree/master/Dingux-7800)
@@ -31,7 +31,7 @@ Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogam
 KEGS (Apple II)  | ???? | ???? | ????
 VICE (Commodore 64)  | ???? | ???? | ????
 DCaSTaway (Atari ST)  | ???? | ???? | ????
-UAE4ALL (Amiga) | ???? | ???? | ????
+UAE4ALL (Amiga) | @zear | Inactive | https://github.com/zear/uae4all
 ScummVM | @jbanes | Active | https://github.com/jbanes/scummvm
 DOSBox  | ???? | ???? | ????
 OpenMSX  | ???? | ???? | ????
@@ -42,10 +42,11 @@ Project | Maintainer | Status | Source Code/Project Page/OPK Download
 ------- | ---------- | ---- | -----------
 GenPlusGX (Gamegear)  | ???? | ???? | ????
 PicoDrive (Gamegear)  | ???? | ???? | ????
-Oswan (Wonderswan)  | ???? | ???? | ????
+OSwan (Wonderswan) | @Gameblabla | Active | https://github.com/gameblabla/oswan
 Race (NeoGeo Pocket)  | ???? | ???? | ????
 Gambatte (GB/GBC)| @hi-ban | Active | https://github.com/bardeci/dot-matrix-simulator
 Handy (Atari Lynx) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/handy.opk)
+Handy320 (Atari Lynx) | @DavidKnight247 | Inactive | https://github.com/DavidKnight247/handy320-rzx50
 GPSP (GBA) | @Ninoh-FOX | Active | https://github.com/Ninoh-FOX/gpsp-rg350
 ReGBA (GBA)  | ???? | ???? | ????
 Desmume (NDS)  | ???? | ???? | ????
