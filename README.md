@@ -14,6 +14,8 @@ Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogam
 Handy320 (Atari Lynx) | @DavidKnight247 | Inactive | https://github.com/DavidKnight247/handy320-rzx50 - [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/handy.opk)
 GPSP (GBA) | @Ninoh-FOX | Active | https://github.com/Ninoh-FOX/gpsp-rg350
 OSwan (Wonderswan) | @Gameblabla | Active | https://github.com/gameblabla/oswan
+JZIntv (Intellivision)    | @DavidKnight247| Inactive | https://github.com/DavidKnight247/jzIntv
+UAE4ALL (Amiga) | @zear | Inactive | https://github.com/zear/uae4all
 
 
 ## Games
