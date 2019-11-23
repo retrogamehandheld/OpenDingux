@@ -14,7 +14,8 @@ GPSP (GBA) | @Ninoh-FOX | Active | https://github.com/Ninoh-FOX/gpsp-rg350
 OSwan (Wonderswan) | @Gameblabla | Active | https://github.com/gameblabla/oswan
 JZIntv (Intellivision)    | @DavidKnight247| Inactive | https://github.com/DavidKnight247/jzIntv
 UAE4ALL (Amiga) | @zear | Inactive | https://github.com/zear/uae4all
-
+FBA Self Launch (Arcade/NeoGeo) | ???? | ?????? | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/fba-rg350-rotation_180-190930.opk)
+FBA Explorer Launch (Arcade/NeoGeo) | @npaladin2000 | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/fba_rotation_explorer.opk)
 
 ## Games
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
