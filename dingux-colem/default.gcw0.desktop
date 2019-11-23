@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Dingux-ColEm
-Comment=Colecovision Emulator
-Exec=dingux-colem %u
-Terminal=false
-Type=Application
-StartupNotify=true
-Icon=coleco
-Categories=emulators;

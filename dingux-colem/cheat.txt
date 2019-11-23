@@ -1,5 +1,0 @@
-Moon patrol:
-  7e18-05   Infinite Life
-
-Zaxxon:
-  717D-04   Infinite Life
