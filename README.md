@@ -1,6 +1,12 @@
 # OpenDingux Software list
 List of software packages available for OpenDingux handhelds, along with their maintainer, project status, and link to the project page itself (for reporting issues)
 
+There are also software repositories located at the following links if you're looking to "shop" for software:
+
+http://www.gcw-zero.com/downloads
+
+https://rs97.bitgala.xyz/RG-350/localpack/
+
 ## Emulators
 
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
