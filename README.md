@@ -11,8 +11,8 @@ https://rs97.bitgala.xyz/RG-350/localpack/
 
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
 ------- | ---------- | ---- | -----------
-DosBox | @dmitrysmagin | Inactive | https://github.com/dmitrysmagin/dosbox-gcw0
 Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/dingux-atari.opk)
+DosBox | @soarquin | Active? | https://github.com/soarqin/dosbox-rg350
 FBA (Arcade/NeoGeo) | @npaladin2000 | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/fba_0.2.97.35_od.opk)
 Gambatte (GB/GBC)| @hi-ban | Active | https://github.com/bardeci/dot-matrix-simulator
 GnGeo   | @jbanes | Active | https://github.com/jbanes/gngeo
