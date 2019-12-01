@@ -7,6 +7,8 @@ http://www.gcw-zero.com/downloads
 
 https://rs97.bitgala.xyz/RG-350/localpack/
 
+https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
+
 ## Emulators
 
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
