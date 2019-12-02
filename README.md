@@ -33,6 +33,7 @@ Atomiks | @Jakz | Active | [OPK](https://github.com/retrogamehandheld/OpenDingux
 Mr. Drillux | @jbanes | Active | https://github.com/jbanes/rs97-mrdrillux
 OpenJazz | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/openjazz.opk)
 PrBoom | @Ninoh-FOX | Active | https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350
+Quartermaster | @hi-ban | Active | https://github.com/hi-ban/quartermaster
 SuperTux | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/supertux.opk)
 
 ## Frontends
