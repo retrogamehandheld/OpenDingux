@@ -14,7 +14,7 @@ https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
 ------- | ---------- | ---- | -----------
 Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/dingux-atari.opk)
-DosBox | @soarquin | Active? | https://github.com/soarqin/dosbox-rg350
+DosBox | @soarquin | Experimental | https://github.com/soarqin/dosbox-rg350
 FBA (Arcade/NeoGeo) | @npaladin2000 | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/fba_0.2.97.35_od.opk)
 Gambatte (GB/GBC)| @hi-ban | Active | https://github.com/bardeci/dot-matrix-simulator
 GnGeo   | @jbanes | Active | https://github.com/jbanes/gngeo
