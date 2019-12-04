@@ -47,4 +47,4 @@ Project | Maintainer | Status | Source Code/Project Page/OPK Download
 ## Applications
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
 ------- | ---------- | ---- | -----------
-
+ODCalc | @Jakz | Active | Calculator [Repository](https://github.com/Jakz/open-dingux-calculator) [OPK](https://github.com/Jakz/open-dingux-calculator/releases/download/v0.1/odcalc.opk)
