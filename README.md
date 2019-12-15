@@ -36,6 +36,7 @@ Project | Maintainer | Status | Source Code/Project Page/OPK Download
 ------- | ---------- | ---- | -----------
 Arkanoid | Unknown | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/Arkanoid.opk)
 Atomiks | @Jakz | Active | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/atomiks.opk)
+DevilutionX (Diablo 1) | @glebm | Active | [OPK](https://github.com/glebm/devilutionX/releases/download/0.5.0.350/devilutionx-rg350.opk), [Source](https://github.com/diasurgical/devilutionX)
 Mr. Drillux | @jbanes | Active | https://github.com/jbanes/rs97-mrdrillux
 OpenJazz | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/openjazz.opk)
 Quartermaster | @hi-ban | Active | https://github.com/hi-ban/quartermaster
