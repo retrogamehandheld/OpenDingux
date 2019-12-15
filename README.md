@@ -22,6 +22,8 @@ JZIntv (Intellivision)    | @DavidKnight247| Inactive | https://github.com/David
 OSwan (Wonderswan) | @Gameblabla | Active | https://github.com/gameblabla/oswan
 ScummVM | @jbanes | Active | https://github.com/jbanes/scummvm
 UAE4ALL (Amiga) | @zear | Inactive | https://github.com/zear/uae4all
+PCSX4ALL | @tonyjih | Active | https://github.com/tonyjih/RG350_pcsx4all
+PCSX4ALL | @gameblabla | Active | https://github.com/gameblabla/pcsx4all
 
 ## Emulator Resources (Skins, pallettes, cheats, etc)
 
