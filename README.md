@@ -23,6 +23,12 @@ OSwan (Wonderswan) | @Gameblabla | Active | https://github.com/gameblabla/oswan
 ScummVM | @jbanes | Active | https://github.com/jbanes/scummvm
 UAE4ALL (Amiga) | @zear | Inactive | https://github.com/zear/uae4all
 
+## Emulator Resources (Skins, pallettes, cheats, etc)
+
+Project | Maintainer | Status | Source Code/Project Page/OPK Download 
+------- | ---------- | ---- | -----------
+Gamebatte Pallettes | SerjTargarien  | Active | https://github.com/SerjTargarien/gambatte-resources
+
 ## Games
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
 ------- | ---------- | ---- | -----------
