@@ -1,5 +1,14 @@
 # OpenDingux Software list
-This is the list of software that we know is out there so far, but needs a home. Please feel free to take responsibility for anything you feel you own. 
+
+List of software packages available for OpenDingux handhelds, along with their maintainer, project status, and link to the project page itself (for reporting issues)
+
+There are also software repositories located at the following links if you're looking to "shop" for software:
+
+http://www.gcw-zero.com/downloads
+
+https://rs97.bitgala.xyz/RG-350/localpack/
+
+https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
 
 
 ## Arcade Emulators
@@ -64,7 +73,11 @@ GPSP (GBA) | @Ninoh-FOX | Active | [Source](https://github.com/Ninoh-FOX/gpsp-rg
 ReGBA (GBA)  | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) / [OPK](https://app.box.com/s/e3no5tjvjxxlz9senns2t3xw8d5xo3nr)
 Desmume (NDS)  | @gameblabla | Inactive | [Source](https://github.com/gameblabla/desmume-gcw0) / [OPK](https://github.com/gameblabla/desmume-gcw0/raw/master/desmume.opk)
 
+## Emulator Resources (Skins, pallettes, cheats, etc)
 
+Project | Maintainer | Status | Source Code/Project Page/OPK Download 
+------- | ---------- | ---- | -----------
+Gamebatte Pallettes | SerjTargarien  | Active | https://github.com/SerjTargarien/gambatte-resources
 
 ## Games
 Project | Maintainer | Status | Source Code/Project Page/OPK Download 
