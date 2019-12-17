@@ -19,6 +19,7 @@ FBA (Arcade/NeoGeo) | @npaladin2000 | Inactive | [OPK](https://github.com/retrog
 Gambatte (GB/GBC)| @hi-ban | Active | https://github.com/bardeci/dot-matrix-simulator
 GnGeo   | @jbanes | Active | https://github.com/jbanes/gngeo
 JZIntv (Intellivision)    | @DavidKnight247| Inactive | https://github.com/DavidKnight247/jzIntv
+Nestopia | @Derynect | Active | https://github.com/Derynect/nestopia
 OSwan (Wonderswan) | @Gameblabla | Active | https://github.com/gameblabla/oswan
 ScummVM | @jbanes | Active | https://github.com/jbanes/scummvm
 UAE4ALL (Amiga) | @zear | Inactive | https://github.com/zear/uae4all
