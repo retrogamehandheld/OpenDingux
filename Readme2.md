@@ -15,8 +15,8 @@ FCEU (NES)    | ???? | ???? | ????
 Temper (PCE/TG16)    | ???? | Legacy | [GitHub](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/temper_20191017.opk)
 PocketSNES    | @soarqin | ???? | [GitHub](https://github.com/soarqin/PocketSNES/releases)
 SNES9X    | ???? | ???? | ????
-PicoDrive (SMS, Genesis/MD, SegaCD)  | ???? | ???? | ????
-GenPlusGX (SMS, Genesis/MD, SegaCD)  | ???? | ???? | ????
+PicoDrive (SMS, Genesis/MD, SegaCD)  | ???? | ???? | [OPK](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/picodrive-gcw0_20191130.opk)
+GenPlusGX (SMS, Genesis/MD, SegaCD)  | ???? | ???? | [OPK](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/PocketSNES_20191101.opk)
 GnGeo   | @jbanes | Active | [GitHub](https://github.com/jbanes/gngeo)
 3Doh (3DO)   | ???? | ???? | ????
 PCSX4ALL  (Playstation)  | ???? | ???? | ????
@@ -29,7 +29,7 @@ Project | Maintainer | Status | Source Code/Project Page/OPK Download
 ------- | ---------- | ---- | -----------
 Dingux-Atari (Atari5200/800) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/dingux-atari.opk)
 KEGS (Apple II)  | ???? | ???? | ????
-VICE (Commodore 64)  | ???? | ???? | ????
+VICE (Commodore 64)  | ???? | Legacy | [OPK](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/vice-c64_20191211.opk)
 DCaSTaway (Atari ST)  | ???? | ???? | ????
 UAE4ALL (Amiga) | @zear | Inactive | [GitHub](https://github.com/zear/uae4all)
 ScummVM | @jbanes | Active | [GitHub](https://github.com/jbanes/scummvm)
@@ -43,7 +43,7 @@ Project | Maintainer | Status | Source Code/Project Page/OPK Download
 GenPlusGX (Gamegear)  | ???? | Legacy | [OPK](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/PocketSNES_20191101.opk)
 PicoDrive (Gamegear)  | ???? | Legacy | [OPK](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/picodrive-gcw0_20191130.opk)
 OSwan (Wonderswan) | @Gameblabla | Active | [GitHub](https://github.com/gameblabla/oswan)
-Race (NeoGeo Pocket)  | ???? | ???? | ????
+Race (NeoGeo Pocket)  | ???? | Legacy | [OPK](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/race_20191210.opk)
 Gambatte (GB/GBC)| @hi-ban | Active | [GitHub](https://github.com/bardeci/dot-matrix-simulator)
 Handy (Atari Lynx) | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/EmulatorOPKs/handy.opk)
 Handy320 (Atari Lynx) | @DavidKnight247 | Inactive | [GitHub](https://github.com/DavidKnight247/handy320-rzx50)
