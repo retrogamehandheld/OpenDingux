@@ -5,14 +5,14 @@ This is the list of software that we know is out there so far, but needs a home.
 ## Arcade Emulators
 
 Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ----------------
+------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
 Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) / NO OPK
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/l33t5p34k3r/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
 
 ## Console Emulators
 
 Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ----------------
+------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
 Stella | Atari 2600 | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Stella-3.9.3) / [OPK](https://github.com/l33t5p34k3r/OpenDingux/raw/master/Emulators/Stella_2015-10-06.opk)
 A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/l33t5p34k3r/OpenDingux/raw/master/Emulators/A5200_2013-06-15.opk) | insert Atari 5200 BIOS like this: `~/5200.rom`
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) / [OPK](https://github.com/l33t5p34k3r/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
@@ -33,7 +33,7 @@ PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gam
 ## Computer Emulators
 
 Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ----------------
+------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 VICE | C64 | @Dmitry Smagin | Legacy | [OPK](https://github.com/l33t5p34k3r/OpenDingux/raw/master/EmulatorOPKs/vice-c64_20191211.opk)
 VICE | C64(DTV), C128, CBM-II, PET, plus4, VIC-20 | @Dmitry Smagin | Legacy | [OPK](https://github.com/l33t5p34k3r/OpenDingux/raw/master/EmulatorOPKs/vice_20150519.opk)
@@ -47,7 +47,7 @@ Unreal Speccy Portable | ZX Spectrum | @DavidKnight | Inactive | [Source](https:
 
 ## Handheld Emulators
 Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ----------------
+------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
 GenesisPlusGX | Gamegear | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/l33t5p34k3r/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 PicoDrive | Gamegear | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 OSwan | Wonderswan | @Gameblabla | Inactive | [Source](https://github.com/gameblabla/oswan) / [OPK](https://github.com/l33t5p34k3r/RG350-Emulators/raw/master/oswan-gcw_20191009.opk)
@@ -62,7 +62,7 @@ Desmume |Nintendo DS | @gameblabla | Inactive | [Source](https://github.com/game
 
 ## Games
 Project | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information
-------- | ---------- | ---- | ----------- | ----------------
+------- | ---------- | ---- | ----------- | ---------------
 Mr. Drillux | @jbanes | Active | [GitHub](https://github.com/jbanes/rs97-mrdrillux)
 Arkanoid | Unknown | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/Arkanoid.opk)
 OpenJazz | None | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/GameOPKs/openjazz.opk)
