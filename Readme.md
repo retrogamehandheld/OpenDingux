@@ -2,21 +2,13 @@
 
 List of software packages available for OpenDingux handhelds, along with their maintainer, project status, and link to the project page itself (for reporting issues)
 
-There are also software repositories located at the following links if you're looking to "shop" for software:
-
-http://www.gcw-zero.com/downloads
-
-https://rs97.bitgala.xyz/RG-350/localpack/
-
-https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
-
 
 ## Arcade Emulators
 
 Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
 ------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
-Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) / NO OPK
+Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) / NO RELEASE [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-11-27.opk)
 
 ## Console Emulators
 
@@ -103,7 +95,7 @@ nKaruga | @gameblabla | Inactive | [Source](https://github.com/gameblabla/nKarug
 OpenBOR | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenBOR.opk) | insert OpenBOR Pak Files into here: `/usr/local/share/OpenBOR/Paks/`
 OpenJazz | DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenJazz.opk) | requires Jazz Jackrabbit Data Files in here: `.openjazz/`
 POWDER | Unknown |Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/POWDER.opk)
-PrBoom | @Ninoh-FOX | Active | [GitHub](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) / [OPK](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases)
+PrBoom+ | @Ninoh-FOX | Active | [GitHub](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) / [OPK](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases)
 QuarterMaster | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) / [OPK](https://github.com/hi-ban/quartermaster/releases)
 REminiscence | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk)
 Rise of The Triad | @podulator | Active | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / NO RELEASES | insert Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
@@ -119,3 +111,12 @@ Strange Adventure in Infinite Space |Unknown | Legacy | [OPK](https://github.com
 Streets of Rage Remake v5.1 | Unknown | Legacy | OPK too big | Recommended to set 'Video Options -> Shadow' from 'Reflected' to 'SOR type' to mitigate crashes.
 SuperTux | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/supertux) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/SuperTux.opk)
 UMG Demo	| @zear | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/UMG%20Demo.opk)
+
+
+There are also other software repositories located at the following links if you're looking to "shop" for software:
+
+http://www.gcw-zero.com/downloads
+
+https://rs97.bitgala.xyz/RG-350/localpack/
+
+https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
