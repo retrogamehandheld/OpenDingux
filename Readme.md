@@ -8,7 +8,7 @@ List of software packages available for OpenDingux handhelds, along with their m
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
 ------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
-Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) / NO RELEASE [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-11-27.opk)
+Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) /  not newest [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-11-27.opk)
 
 ## Console Emulators
 
@@ -26,7 +26,7 @@ PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih
 PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) / [OPK](https://github.com/gameblabla/pcsx4all/releases)
 PocketSNES |SNES | @soarqin | Active | [Source](https://github.com/soarqin/PocketSNES/) / [OPK](https://github.com/soarqin/PocketSNES/releases)
 ProSystem | Atari7800 | @alekmaul | Inactive | [Source](https://github.com/alekmaul/prosystem) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ProSystem_2013-06-16%20(Explorer).opk)
-SMS Plus GX | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Source](https://github.com/gameblabla/sms_sdl) / [OPK](https://gameblabla.nl/files/ipk/gcw0/smsplus_gcw0.opk)
+SMS Plus GX | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 SNES9X |SNES | @soarqin | Active | [Source](https://github.com/soarqin/snes9x/releases) / [OPK](https://github.com/soarqin/snes9x/releases)
 Stella | Atari 2600 | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Stella-3.9.3) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Stella_2015-10-06.opk)
 Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/temper) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Temper_2017-08-08.opk) | (Optional) insert PCE Super System Card 3: the BIOS like this: `~/.temper/syscards/syscard3.pce`
@@ -39,7 +39,7 @@ Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK   | Addi
 ------- | ------------------ | ---------- | ------ | -------------------- | ----------------------
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM like this: `~/.DCaSTaway/bios/rom` disk image goes in: `~/.DCaSTaway/diskimages/`
-DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) / NO RELEASE [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
+DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) / not newest [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
 KEGS | Apple II | @alekmaul | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/KEGS_2016-05-04.opk) | https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/
 OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Active | [Source](https://github.com/openMSX/openMSX/) / [OPK](https://github.com/openMSX/openMSX/releases)
 ScummVM | Point-and-Click-Adventures | @jbanes | Active | [Source](https://github.com/jbanes/scummvm/) / [OPK](https://github.com/jbanes/scummvm/releases)
@@ -56,8 +56,8 @@ Desmume |Nintendo DS | @gameblabla | Inactive | [Source](https://github.com/game
 Gambatte | Gameboy (Color) | @hi-ban | Active | [Source](https://github.com/bardeci/dot-matrix-simulator/) / [OPK](https://github.com/bardeci/dot-matrix-simulator/releases)
 GenesisPlusGX | Gamegear | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GPSP | Gameboy Advance | @Ninoh-FOX | Active | [Source](https://github.com/Ninoh-FOX/gpsp-rg350/) / [OPK](https://github.com/Ninoh-FOX/gpsp-rg350/releases)
-Handy | Atari Lynx | @gameblabla | Active | [Source](https://github.com/gameblabla/handy-rs97) / [OPK](https://gameblabla.nl/files/ipk/gcw0/handy_gcw0.opk)
-NGPCEmu | NeoGeo Pocket | @gameblabla | Active | [Source](https://github.com/gameblabla/NGPCemu) / [OPK](https://gameblabla.nl/files/ipk/gcw0/ngpcemu_gcw0.opk)
+Handy | Atari Lynx | @gameblabla | Active | [Source](https://github.com/gameblabla/handy-rs97) / [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
+NGPCEmu | NeoGeo Pocket | @gameblabla | Active | [Source](https://github.com/gameblabla/NGPCemu) / [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 OSwan | Wonderswan | @Gameblabla | Inactive | [Source](https://github.com/gameblabla/oswan) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Oswan_2019-10-09.opk)
 PicoDrive | Gamegear | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Regba_2019-11-01.opk) | (Optional) exchange the BIOS like this: `~/.gpsp/gba_bios.bin`
@@ -84,12 +84,12 @@ DevilutionX | @glebm | Active | [Source](https://github.com/diasurgical/deviluti
 ECWolf | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/ecwolf) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/ECWolf.opk) | insert Wolfenstein 3D Engine File into here:, `~/.ecwolf/`
 EDuke32 | @zear | Inactive |[Source](https://github.com/zear/eduke32) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/EDuke32.opk) | insert Duke Nukem 3D Engine File into here: `~/.eduke32/`
 FreeDink | Unknown | Inactive |[Source](https://www.gnu.org/software/freedink/) / [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/freedink.opk)
-Ghouls'n Ghosts Remix | @dmitry_smagin | Legacy | [OPK](Ghouls'n Ghosts Remix)
+Ghouls'n Ghosts Remix | @dmitry_smagin | Legacy | external [OPK](http://prizma.bmstu.ru/~exmortis/opk/ggr_056.opk)
 Hexen 2 - Hammer of Thyrion | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/gcw0-hexen2/) / [OPK](https://github.com/JohnnyonFlame/gcw0-hexen2/releases)  | insert Hexen II Data1 folder into here: `~/.hexen2/`
 Hocoslamfly | @fgl82 | Active | [Source](https://github.com/fgl82/hocoslamfy) / [OPK](https://github.com/fgl82/hocoslamfy/releases)
-Marathon | Unknown | Legacy | [ [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon_20191109.opk)
-Marathon 2| Unknown | Legacy | [ [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%202_20191109.opk)
-Marathon Infinite | Unknown | Legacy | [ [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%20Infinity_20191109.opk)
+Marathon | Unknown | Legacy | [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon_20191109.opk)
+Marathon 2| Unknown | Legacy | [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%202_20191109.opk)
+Marathon Infinite | Unknown | Legacy | [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%20Infinity_20191109.opk)
 Mr. Drillux | @jbanes | Active | [GitHub](https://github.com/jbanes/rs97-mrdrillux) / [OPK](https://github.com/jbanes/rs97-mrdrillux/releases)
 nKaruga | @gameblabla | Inactive | [Source](https://github.com/gameblabla/nKaruga/) / [OPK](https://github.com/gameblabla/nKaruga/releases)
 OpenBOR | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenBOR.opk) | insert OpenBOR Pak Files into here: `/usr/local/share/OpenBOR/Paks/`
@@ -98,17 +98,17 @@ POWDER | Unknown |Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux
 PrBoom+ | @Ninoh-FOX | Active | [GitHub](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) / [OPK](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases)
 QuarterMaster | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) / [OPK](https://github.com/hi-ban/quartermaster/releases)
 REminiscence | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk)
-Rise of The Triad | @podulator | Active | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / NO RELEASES | insert Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
+Rise of The Triad | @podulator | Inactive | [Source](https://github.com/podulator/RoTT) / not newest [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Rise%20of%20The%20Triad.opk) | insert Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
 rRootage | @jamesofarrell  | Active | [Source](https://github.com/jamesofarrell/rRootage-for-Handhelds/) / [OPK](https://github.com/jamesofarrell/rRootage-for-Handhelds/releases)
 SDLQuake2 | @jamesofarrell  | Active | [Source](https://github.com/jamesofarrell/SDLQuake2) / [OPK](https://github.com/jamesofarrell/SDLQuake2/releases) | insert Quake II (Shareware/Registered) Data Files into: `~/.quake2/baseq2`
 Shadow Warrior | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/gcw0-jfsw) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Shadow%20Warrior.opk) | insert Shadow Warrior (Shareware/Registered) Data Files into: `~/.jfsw/sw.grp`
-Sonic Robo Blast 2 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/srb2-gcw) | OPK too big
+Sonic Robo Blast 2 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/srb2-gcw) | [OPK](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8)
 Sqrxz | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sqrxz.opk)
 Sqrxz 2: Two seconds 'til death | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sqrxz%202.opk)
 Sqrxz 3: Adventure for Love | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sqrxz%203.opk)
 Sqrxz 4: Cold Cash | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sqrxz%204.opk)
 Strange Adventure in Infinite Space |Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Strange%20Adventure%20in%20Infinite%20Space.opk)
-Streets of Rage Remake v5.1 | Unknown | Legacy | OPK too big | Recommended to set 'Video Options -> Shadow' from 'Reflected' to 'SOR type' to mitigate crashes.
+Streets of Rage Remake v5.1 | Unknown | Legacy | [OPK](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | Recommended to set 'Video Options -> Shadow' from 'Reflected' to 'SOR type' to mitigate crashes.
 SuperTux | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/supertux) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/SuperTux.opk)
 UMG Demo	| @zear | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/UMG%20Demo.opk)
 
@@ -134,3 +134,13 @@ http://www.gcw-zero.com/downloads
 https://rs97.bitgala.xyz/RG-350/localpack/
 
 https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
+
+
+
+<!-- External Sources:-->
+<!-- Sonic Robo Blast 2 :: https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8-->
+<!-- Streets of Rage Remake v5.1 :: https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU-->
+<!-- FreeDink :: https://www.gnu.org/software/freedink/-->
+<!--Marathon :: https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon_20191109.opk-->
+<!--Marathon 2 :: https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%202_20191109.opk-->
+<!--Marathon Infinite :: https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%20Infinity_20191109.opk-->
