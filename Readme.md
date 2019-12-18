@@ -5,15 +5,15 @@ List of software packages available for OpenDingux handhelds, along with their m
 
 ## Arcade Emulators
 
-Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
+Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
+------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
 Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) / NO RELEASE [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-11-27.opk)
 
 ## Console Emulators
 
-Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
+Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
+------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/A5200(Explorer)_2013-06-15.opk) | insert Atari 5200 BIOS like this: `~/5200.rom`
 CollecoD | ColecoVision | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ColecoD(Explorer)_2013-06-15%20.opk)
 DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxAtari_2014-04-28.opk)
@@ -35,8 +35,8 @@ Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gamebla
 
 ## Computer Emulators
 
-Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
+Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK   | Additional Information 
+------- | ------------------ | ---------- | ------ | -------------------- | ----------------------
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM like this: `~/.DCaSTaway/bios/rom` disk image goes in: `~/.DCaSTaway/diskimages/`
 DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) / NO RELEASE [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
@@ -50,8 +50,8 @@ VICE | C64(DTV), C128, CBM-II, PET, plus4, VIC-20 | @Dmitry Smagin | Legacy | [O
 
 
 ## Handheld Emulators
-Project | Emulated System(s) | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------------------------- | ---------------
+Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
+------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 Desmume |Nintendo DS | @gameblabla | Inactive | [Source](https://github.com/gameblabla/desmume-gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Desmume_2016-01-22.opk)
 Gambatte | Gameboy (Color) | @hi-ban | Active | [Source](https://github.com/bardeci/dot-matrix-simulator/) / [OPK](https://github.com/bardeci/dot-matrix-simulator/releases)
 GenesisPlusGX | Gamegear | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk)
@@ -65,14 +65,14 @@ ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pce
 
 ## Emulator Resources (Skins, pallettes, cheats, etc)
 
-Project | Maintainer | Status | Source Code/Project Page/OPK Download 
-------- | ---------- | ---- | -----------
-Gamebatte Pallettes | SerjTargarien  | Active | https://github.com/SerjTargarien/gambatte-resources
+Project | Maintainer | Status | Source/Website/OPK
+------- | ---------- | ------ | ------------------
+Gamebatte Pallettes | SerjTargarien  | Active | [Source](https://github.com/SerjTargarien/gambatte-resources)
 
 
 ## Games & Ports
-Project | Maintainer | Status | Source Code/Project Page/OPK Download  | Additional Information
-------- | ---------- | ---- | ----------- | ----
+Project | Maintainer | Status | Source/Website/OPK  | Additional Information
+------- | ---------- | ------ | ------------------- | ----------------------
 Abuse | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Abuse.opk)
 Arkanoid | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Games%20%26%20Ports/Arkanoid.opk)
 Atomiks | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Atomiks.opk)
@@ -111,6 +111,19 @@ Strange Adventure in Infinite Space |Unknown | Legacy | [OPK](https://github.com
 Streets of Rage Remake v5.1 | Unknown | Legacy | OPK too big | Recommended to set 'Video Options -> Shadow' from 'Reflected' to 'SOR type' to mitigate crashes.
 SuperTux | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/supertux) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/SuperTux.opk)
 UMG Demo	| @zear | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/UMG%20Demo.opk)
+
+## Applications
+Project | Use-Case | Maintainer | Status | Source-Code/Website/OPK 
+------- | -------- | ---------- | ------ | -----------------------
+Bard | E-book Reader | @festvox | Inactive |  [Source](https://github.com/festvox/bard) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Bard.opk)
+FFPlay | Video Player | @denis-n-kuznetsov | Inactive |  [Source](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/FFPlay.opk)
+Glutexto | Text Editor | @Ziz | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Glutexto.opk)
+GMU | Word Music Player | @denis-n-kuznetsov | Inactive |  | [Source](https://github.com/denis-n-kuznetsov/gmu) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/GMU.opk)
+ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-dingux-calculator) / [OPK](https://github.com/Jakz/open-dingux-calculator/releases/)
+Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
+
+
+
 
 
 There are also other software repositories located at the following links if you're looking to "shop" for software:
