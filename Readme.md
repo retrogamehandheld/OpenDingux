@@ -118,9 +118,10 @@ Project | Use-Case | Maintainer | Status | Source-Code/Website/OPK
 Bard | E-book Reader | @festvox | Inactive |  [Source](https://github.com/festvox/bard) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Bard.opk)
 FFPlay | Video Player | @denis-n-kuznetsov | Inactive |  [Source](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/FFPlay.opk)
 Glutexto | Text Editor | @Ziz | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Glutexto.opk)
-GMU | Word Music Player | @denis-n-kuznetsov | Inactive |  | [Source](https://github.com/denis-n-kuznetsov/gmu) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/GMU.opk)
+GMU | Music Player | @denis-n-kuznetsov | Inactive | [Source](https://github.com/denis-n-kuznetsov/gmu) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/GMU.opk)
 ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-dingux-calculator) / [OPK](https://github.com/Jakz/open-dingux-calculator/releases/)
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
+
 
 
 
