@@ -123,7 +123,7 @@ ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-di
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
 
 
-* Developer has not provided a new OPK for his source
+*Developer has not provided a new OPK for his source
 
 
 
