@@ -69,9 +69,16 @@ ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pce
 
 ## Emulator Resources (Skins, pallettes, cheats, etc)
 
-Project | Maintainer | Status | Source/Website/OPK
+Project | Maintainer | Status | Source/Website
 ------- | ---------- | ------ | ------------------
 Gamebatte Pallettes | SerjTargarien  | Active | [Source](https://github.com/SerjTargarien/gambatte-resources)
+
+## Frontends
+
+Project | Maintainer | Status | Source/Website/OPK
+------- | ---------- | ------ | ------------------
+Esoteric(350teric, GMenuNX) | @podulator  | Active | [Source](https://github.com/podulator/esoteric/releases) / [OPK](https://github.com/podulator/esoteric/releases)
+SimpleMenu | @fgl82  | Active | [Source](https://github.com/fgl82/simplemenu) / [OPK](https://github.com/fgl82/simplemenu/releases)
 
 
 ## Games & Ports
