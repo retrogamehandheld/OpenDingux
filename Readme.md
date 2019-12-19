@@ -2,6 +2,7 @@
 
 List of software packages available for OpenDingux handhelds, along with their maintainer, project status, and link to the project page itself (for reporting issues)
 
+~/ = usr/local/home
 
 ## Arcade Emulators
 
@@ -9,6 +10,7 @@ Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Addit
 ------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
 Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-11-27.opk)
+MAME4ALL | Arcade | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/MAME4ALL_2014-01-04.opk)
 
 ## Console Emulators
 
@@ -38,15 +40,16 @@ Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gamebla
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK   | Additional Information 
 ------- | ------------------ | ---------- | ------ | -------------------- | ----------------------
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
-DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM like this: `~/.DCaSTaway/bios/rom` disk image goes in: `~/.DCaSTaway/diskimages/`
+DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM like this: `~/.DCaSTaway/bios/rom` <br> disk image goes in: `~/.DCaSTaway/diskimages/`
 DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) / [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
-KEGS | Apple II | @alekmaul | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/KEGS_2016-05-04.opk) | https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/
-OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Active | [Source](https://github.com/openMSX/openMSX/) / [OPK](https://github.com/openMSX/openMSX/releases)
+KEGS | Apple II | @alekmaul | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/KEGS_2016-05-04.opk) | [more information](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
+OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Inactive | [Source](https://github.com/openMSX/openMSX/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/OpenMSX(Explorer)_2019-12-11.opk)
 ScummVM | Point-and-Click-Adventures | @jbanes | Active | [Source](https://github.com/jbanes/scummvm/) / [OPK](https://github.com/jbanes/scummvm/releases)
 UAE4ALL | Amiga | @zear | Inactive | [Source](https://github.com/zear/uae4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UAE4all_2014-12-02.opk) | insert Amiga 500 Kickstart ROM like this: `~/.uae4all/kick.rom`
 Unreal Speccy Portable | ZX Spectrum | @DavidKnight | Inactive | [Source](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk)
 VICE | C64 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE-c64_2019-12-11.opk)
 VICE | C64(DTV), C128, CBM-II, PET, plus4, VIC-20 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE(Explorer)_2019-12-16.opk)
+Zerox86 | x86 | @Patrick Aalto | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Zerox86_2014.07.27.opk) | insert 4DOS.COM into: `~/` <br>[more information](http://zerox86.patrickaalto.com/index.html)
 
 
 ## Handheld Emulators
@@ -60,6 +63,7 @@ Handy | Atari Lynx | @gameblabla | Active | [Source](https://github.com/gameblab
 NGPCEmu | NeoGeo Pocket | @gameblabla | Active | [Source](https://github.com/gameblabla/NGPCemu) / [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 OSwan | Wonderswan | @Gameblabla | Inactive | [Source](https://github.com/gameblabla/oswan) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Oswan_2019-10-09.opk)
 PicoDrive | Gamegear | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
+Race | NeoGeo Pocket | @alexmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Race(Explorer)_2019-12-11.opk)
 ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Regba_2019-11-01.opk) | (Optional) exchange the BIOS like this: `~/.gpsp/gba_bios.bin`
 
 
@@ -79,7 +83,7 @@ Atomiks | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDin
 Cannonball | Unknown | Inactive |  [Source](https://github.com/gameblabla/Cannonballs/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Cannonball.opk) | insert TOS OutRun (sitdown/upright, Rev B) in here: `~/.cannonball/rom`
 Cannon Fodder | Unknown | Legacy |  [Source](https://github.com/gameblabla/Cannonballs/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Cannonfodder.opk)
 Chocolate Doom | Unknown | Legacy |  [Source](https://github.com/gameblabla/Cannonballs/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Chocolate%20Doom%20(Selector).opk) | plays .WAD for Doom / Heretic / Hexen / Strife
-Descent 2 Rebirth| Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Descent%202%20Rebirth.opk) | insert Descent 2 file in here: `~/.d2x-rebirth/` falls back to  shareware version with no files
+Descent 2 Rebirth| Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Descent%202%20Rebirth.opk) | insert Descent 2 file in here: `~/.d2x-rebirth/` <br> falls back to  shareware version with no files
 DevilutionX | @glebm | Active | [Source](https://github.com/diasurgical/devilutionX) / [OPK](https://github.com/glebm/devilutionX/releases/) | Copy diabdat.mpq (all lowercase) from your CD, or GoG install folder to: `/media/home/.local/share/diasurgical/devilution/diabdat.mpq`
 ECWolf | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/ecwolf) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/ECWolf.opk) | insert Wolfenstein 3D Engine File into here:, `~/.ecwolf/`
 EDuke32 | @zear | Inactive |[Source](https://github.com/zear/eduke32) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/EDuke32.opk) | insert Duke Nukem 3D Engine File into here: `~/.eduke32/`
