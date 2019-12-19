@@ -1,6 +1,6 @@
 # OpenDingux Software list
 
-List of software packages available for OpenDingux handhelds, along with their maintainer, project status, and link to the project page itself (for reporting issues)
+List of software packages available for OpenDingux handhelds (RG350, PocketGO2,..), along with their maintainer, project status, and link to the project page itself (for reporting issues)
 
 ~/ = usr/local/home
 
