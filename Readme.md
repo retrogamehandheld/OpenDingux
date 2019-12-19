@@ -87,7 +87,7 @@ Project | Maintainer | Status | Source/Website/OPK  | Additional Information
 ------- | ---------- | ------ | ------------------- | ----------------------
 Abuse | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Abuse.opk)
 Apricots | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Apricots.opk)
-Arkanoid | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Games%20%26%20Ports/Arkanoid.opk)
+Arkanoid | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Arkanoid.opk)
 AstroLander | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/AstroLander.opk)
 Atomiks | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Atomiks.opk)
 BarbieSA | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/BarbieSA.opk)
@@ -170,7 +170,7 @@ Triple Trapled | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/O
 UMG Demo	| @zear | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/UMG%20Demo.opk)
 Vecteroids | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Vectoroids.opk)
 Wetspot 2 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Wetspot%202.opk)
-Witching Hour | gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Games%20%26%20Ports/Witching%20Hour.opk)
+Witching Hour | gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Witching%20Hour.opk)
 Worship Vector | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Worship%20Vector.opk)
 Xump | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Xump.opk)
 
