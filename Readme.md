@@ -11,7 +11,7 @@ Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Addit
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
 Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-11-27.opk)
 MAME4ALL | Arcade | @alekmaul | Inactive | [Source](https://github.com/alekmaul/mame4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/MAME4ALL_2014-01-04.opk)
-
+XMAME | Arcade | @slaanesh | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/XMAME_2014-12-31.opk) | needs ROMs to run [more information](http://www.slaanesh.net/)
 ## Console Emulators
 
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
@@ -24,9 +24,9 @@ FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/jbanes/gngeo/) / [OPK](https://github.com/jbanes/gngeo/releases)
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
-PicoDrive | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
-PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih/RG350_pcsx4all/) / [OPK](https://github.com/tonyjih/RG350_pcsx4all/releases)
-PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) / [OPK](https://github.com/gameblabla/pcsx4all/releases)
+PicoDrive | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/) | (Optional) insert BIOS here: `.picodrive`
+PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih/RG350_pcsx4all/) / [OPK](https://github.com/tonyjih/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `.pcsx4all/bios`
+PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) / [OPK](https://github.com/gameblabla/pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `.pcsx4all/bios`
 PocketSNES |SNES | @soarqin | Active | [Source](https://github.com/soarqin/PocketSNES/) / [OPK](https://github.com/soarqin/PocketSNES/releases)
 ProSystem | Atari7800 | @alekmaul | Inactive | [Source](https://github.com/alekmaul/prosystem) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ProSystem_2013-06-16%20(Explorer).opk)
 SMS Plus GX | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
@@ -68,11 +68,11 @@ Race | NeoGeo Pocket | @alexmaul | Legacy | [OPK](https://github.com/retrogameha
 ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Regba_2019-11-01.opk) | (Optional) exchange the BIOS like this: `~/.gpsp/gba_bios.bin`
 
 
-## Emulator Resources (Skins, pallettes, cheats, etc)
+## Emulator Resources (Skins, palettes, cheats, etc)
 
 Project | Maintainer | Status | Source/Website
 ------- | ---------- | ------ | ------------------
-Gamebatte Pallettes | SerjTargarien  | Active | [Source](https://github.com/SerjTargarien/gambatte-resources)
+Gamebatte Palettes | SerjTargarien  | Active | [Source](https://github.com/SerjTargarien/gambatte-resources)
 
 ## Frontends
 
