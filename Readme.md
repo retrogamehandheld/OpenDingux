@@ -19,6 +19,7 @@ Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Addit
 A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/A5200(Explorer)_2013-06-15.opk) | insert Atari 5200 BIOS like this: `~/5200.rom`
 CollecoD | ColecoVision | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ColecoD(Explorer)_2013-06-15%20.opk)
 DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxAtari_2014-04-28.opk)
+EasyRPG | RPG Maker | @gameblabla | Inactive | [Source](https://github.com/carstene1ns/easyrpg-player) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/EasyRPG_2017-12-13.opk)
 FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) / [OPK](https://github.com/soarqin/fceux-for-retrogame/releases)
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/jbanes/gngeo/) / [OPK](https://github.com/jbanes/gngeo/releases)
@@ -101,18 +102,22 @@ DevilutionX | @glebm | Active | [Source](https://github.com/diasurgical/deviluti
 ECWolf | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/ecwolf) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/ECWolf.opk) | insert Wolfenstein 3D Engine File into here:, `~/.ecwolf/`
 EDuke32 | @zear | Inactive |[Source](https://github.com/zear/eduke32) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/EDuke32.opk) | insert Duke Nukem 3D Engine File into: `~/.eduke32/`
 Enigma | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Enigma.opk)
+Evil Australians | @gameblabla | Inactive | [Source](https://github.com/gameblabla/evilaustralians) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Evil%20Australians.opk)
 Falling Time | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Falling%20Time.opk)
 Finite | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Finite.opk)
 FreeBlocks | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/FreeBlocks.opk)
 FreeDink | Unknown | Inactive |[Source](https://www.gnu.org/software/freedink/) / [OPK](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/freedink.opk)
 FreeDoom | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/FreeDoom.opk)
 Fruit'Y | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Fruit'Y.opk)
+Ganbare Natsuki-San! | @gameblabla | Inactive | [Source](https://github.com/gameblabla/Ganbare-Natsuki-San) / [OPK](https://github.com/gameblabla/Ganbare-Natsuki-San/raw/master/gnp.opk)
 Ghouls'n Ghosts Remix | @dmitry_smagin | Legacy | external [OPK](http://prizma.bmstu.ru/~exmortis/opk/ggr_056.opk)
 Giana's Return | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Giana's%20Return.opk)
 Griffon Legend | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Griffon%20Legend.opk)
 Hexen 2 - Hammer of Thyrion | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/gcw0-hexen2/) / [OPK](https://github.com/JohnnyonFlame/gcw0-hexen2/releases)  | insert Hexen II Data1 folder into: `~/.hexen2/`
 Hocoslamfly | @fgl82 | Active | [Source](https://github.com/fgl82/hocoslamfy) / [OPK](https://github.com/fgl82/hocoslamfy/releases)
+Hexa-Hop | @gameblabla | Inactive | [Source](https://github.com/gameblabla/hexahop) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Hex-A-Hop.opk)
 Homing Fever | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Homing%20Fever.opk)
+Hydra Castle Labyrinth | @gameblabla | Inactive | [Source](https://github.com/gameblabla/hydracastlelabyrinth) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Hydra%20Castle%20Labyrinth.opk)
 Kobo Deluxe | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Kobo%20Deluxe.opk)
 Koules | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Koules.opk)
 Last Mission | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Last%20Mission.opk)
@@ -128,8 +133,10 @@ Mr. Drillux | @jbanes | Active | [GitHub](https://github.com/jbanes/rs97-mrdrill
 Nampure | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Nampure.opk)
 Nanobounce | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Nanobounce.opk)
 nKaruga | @gameblabla | Inactive | [Source](https://github.com/gameblabla/nKaruga/) / [OPK](https://github.com/gameblabla/nKaruga/releases)
+nCrafti | @gameblabla | Inactive | [Source](https://github.com/gameblabla/crafti) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/nCrafti.opk)
 OpenBOR | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenBOR.opk) | insert OpenBOR Pak Files into: `/usr/local/share/OpenBOR/Paks/`
-OpenJazz | DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenJazz.opk) | insert Jazz Jackrabbit Data Files into: `.openjazz/`
+OpenJazz | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenJazz.opk) | insert Jazz Jackrabbit Data Files into: `.openjazz/`
+Overheated | @gameblabla | Inactive | [Source](https://github.com/gameblabla/overheated) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Overheated.opk)
 POWDER | Unknown |Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/POWDER.opk)
 PrBoom+ | @Ninoh-FOX | Active | [GitHub](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) / [OPK](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases)
 Puzzletube | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Puzzletube.opk)
@@ -156,12 +163,14 @@ Strange Adventure in Infinite Space |Unknown | Legacy | [OPK](https://github.com
 STransball2 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/STransball2.opk)
 Streets of Rage Remake v5.1 | Unknown | Legacy | [OPK](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | Recommended to set 'Video Options -> Shadow' from 'Reflected' to 'SOR type' to mitigate crashes.
 Stringrolled | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Stringrolled.opk)
+Super Methane Brothers | @gameblabla | Inactive | [Source](https://github.com/gameblabla/methane) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Super%20Methane%20Brothers.opk)
 SuperTux | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/supertux) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/SuperTux.opk)
 Tile World | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tile%20World.opk)
 Triple Trapled | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Triple%20Trapled.opk)
 UMG Demo	| @zear | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/UMG%20Demo.opk)
 Vecteroids | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Vectoroids.opk)
 Wetspot 2 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Wetspot%202.opk)
+Witching Hour | gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Games%20%26%20Ports/Witching%20Hour.opk)
 Worship Vector | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Worship%20Vector.opk)
 Xump | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Xump.opk)
 
@@ -194,10 +203,5 @@ https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
 
 
 
-<!-- External Sources:-->
-<!-- Sonic Robo Blast 2 :: https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8-->
-<!-- Streets of Rage Remake v5.1 :: https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU-->
-<!-- FreeDink :: https://www.gnu.org/software/freedink/-->
-<!--Marathon :: https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon_20191109.opk-->
-<!--Marathon 2 :: https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%202_20191109.opk-->
-<!--Marathon Infinite :: https://rs97.bitgala.xyz/RG-350/localpack/extra_games/Marathon%20Infinity_20191109.opk-->
+<!-- TODO:-->
+<!-- Replace external sources for internal ones-->
