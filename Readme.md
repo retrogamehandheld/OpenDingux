@@ -182,7 +182,7 @@ Bard | E-book Reader | @festvox | Inactive |  [Source](https://github.com/festvo
 FFPlay | Video Player | @denis-n-kuznetsov | Inactive |  [Source](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/FFPlay.opk)
 Glutexto | Text Editor | @Ziz | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Glutexto.opk)
 GMU | Music Player | @denis-n-kuznetsov | Inactive | [Source](https://github.com/denis-n-kuznetsov/gmu) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/GMU.opk)
-HWTest | Input Tester | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/HWTest.opk)
+HWTest | Input Tester | Unknown | Inactive | [Source](https://github.com/tonyjih/RG350_input-test) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/HWTest.opk)
 Input tester | Input Tester | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Input%20tester.opk)
 ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-dingux-calculator) / [OPK](https://github.com/Jakz/open-dingux-calculator/releases/)
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
