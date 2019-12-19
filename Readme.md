@@ -33,7 +33,7 @@ SMS Plus GX | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https:/
 SNES9X |SNES | @soarqin | Active | [Source](https://github.com/soarqin/snes9x/releases) / [OPK](https://github.com/soarqin/snes9x/releases)
 Stella | Atari 2600 | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Stella-3.9.3) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Stella_2015-10-06.opk)
 Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/temper) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Temper_2017-08-08.opk) | (Optional) insert PCE Super System Card 3: the BIOS like this: `~/.temper/syscards/syscard3.pce`
-3DOh | 3DO | @gameblabla | Inactive | [Source](https://github.com/gameblabla/3doh_gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/3DOh_2018-05-23.opkk)
+3DOh | 3DO | @gameblabla | Inactive | [Source](https://github.com/gameblabla/3doh_gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/3DOh_2018-05-23.opkk)
 
 
 ## Computer Emulators
