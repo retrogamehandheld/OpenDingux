@@ -152,7 +152,7 @@ SDL Sand | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDin
 Shadow Warrior | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/gcw0-jfsw) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Shadow%20Warrior.opk) | insert Shadow Warrior (Shareware/Registered) Data Files into: `~/.jfsw/sw.grp`
 Slappa! | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Slappa!.opk)
 Snowman | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Snowman.opk)
-Sonic Robo Blast 2 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/srb2-gcw) | [OPK](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8)
+Sonic Robo Blast 2 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/srb2-gcw) / [OPK](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8)
 Spartak Chess | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Spartak%20Chess.opk)
 Spout | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Spout.opk)
 Sqrxz | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sqrxz.opk)
