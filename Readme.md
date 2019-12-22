@@ -4,7 +4,7 @@ List of software packages available for OpenDingux handhelds (RG350, PocketGO2,.
 
 If you know of any newer versions or games that were just released, let us know on our [Discord-Channel](https://discord.gg/p4uRmCd)! We try to keep this as up to date as possible, but with multiple versions and different Forks it can be hard to keep up sometimes. If you're one of the developers of unknown OPKs let us know so we can add you!
 
-To 
+For more information about shortcuts and other things, we like to refer you to [our Wiki](https://github.com/retrogamehandheld/OpenDingux/wiki)
 
 ~/ = usr/local/home
 
