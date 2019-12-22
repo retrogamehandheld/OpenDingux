@@ -2,6 +2,10 @@
 
 List of software packages available for OpenDingux handhelds (RG350, PocketGO2,..), along with their maintainer, project status, and link to the project page itself (for reporting issues)
 
+If you know of any newer versions or games that were just released, let us know on our [Discord-Channel](https://discord.gg/p4uRmCd)! We try to keep this as up to date as possible, but with multiple versions and different Forks it can be hard to keep up sometimes. If you're one of the developers of unknown OPKs let us know so we can add you!
+
+To 
+
 ~/ = usr/local/home
 
 ## Arcade Emulators
@@ -102,6 +106,7 @@ Blockrage | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenD
 Cannonball | Unknown | Inactive |  [Source](https://github.com/gameblabla/Cannonballs/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Cannonball.opk) | insert TOS OutRun (sitdown/upright, Rev B) into: `~/.cannonball/rom`
 Cannon Fodder | Unknown | Legacy |  [Source](https://github.com/gameblabla/Cannonballs/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Cannonfodder.opk)
 Chocolate Doom | Unknown | Legacy |  [Source](https://github.com/gameblabla/Cannonballs/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Chocolate%20Doom%20(Selector).opk) | plays .WAD for Doom / Heretic / Hexen / Strife
+Descent 1 Rebirth| Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Descent%201%20Rebirth.opk) | insert Descent 1 file into: `~/.d1x-rebirth/` <br> falls back to  shareware version with no files
 Descent 2 Rebirth| Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Descent%202%20Rebirth.opk) | insert Descent 2 file into: `~/.d2x-rebirth/` <br> falls back to  shareware version with no files
 DevilutionX | @glebm | Active | [Source](https://github.com/diasurgical/devilutionX) / [OPK](https://github.com/glebm/devilutionX/releases/) | Copy diabdat.mpq (all lowercase) from your CD, or GoG install folder to: `/media/home/.local/share/diasurgical/devilution/diabdat.mpq`
 ECWolf | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/ecwolf) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/ECWolf.opk) | insert Wolfenstein 3D Engine File into here:, `~/.ecwolf/`
