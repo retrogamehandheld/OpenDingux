@@ -16,11 +16,11 @@ XMAME | Arcade | @slaanesh | Legacy | [OPK](https://github.com/retrogamehandheld
 
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
 ------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
-A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/A5200(Explorer)_2013-06-15.opk) | insert Atari 5200 BIOS like this: `~/5200.rom`
+A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/A5200(Explorer)_2013-06-15.opk) | insert Atari 5200 Bios(5200.rom in here: `~/`
 CollecoD | ColecoVision | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ColecoD(Explorer)_2013-06-15%20.opk)
 DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxAtari_2014-04-28.opk)
 EasyRPG | RPG Maker | @gameblabla | Inactive | [Source](https://github.com/carstene1ns/easyrpg-player) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/EasyRPG_2017-12-13.opk)
-FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) / [OPK](https://github.com/soarqin/fceux-for-retrogame/releases) | Disk System games need Disk System ROM like this: `~/.fceux/disksys.rom`
+FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) / [OPK](https://github.com/soarqin/fceux-for-retrogame/releases) | Disk System games need Disk System Bios(disksys.rom) in here: `~/.fceux/`
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/Derynect/nestopia) / [OPK](https://github.com/jbanes/gngeo/releases)
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
@@ -34,7 +34,7 @@ SmallPCFX | PC-FX | @gameblabla | Inactive | [Source](https://github.com/gamebla
 SMS Plus GX | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 SNES9X |SNES | @soarqin | Active | [Source](https://github.com/soarqin/snes9x/releases) / [OPK](https://github.com/soarqin/snes9x/releases)
 Stella | Atari 2600 | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Stella-3.9.3) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Stella_2015-10-06.opk)
-Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/temper) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Temper_2017-08-08.opk) | (Optional) insert PCE Super System Card 3: the BIOS like this: `~/.temper/syscards/syscard3.pce`
+Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/temper) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Temper_2017-08-08.opk) | (Optional) insert PCE Super System Card 3 Bios(syscard3.pce in here: `~/.temper/syscards/`
 3DOh | 3DO | @gameblabla | Inactive | [Source](https://github.com/gameblabla/3doh_gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/3DOh_2018-05-23.opkk)
 
 
@@ -48,7 +48,7 @@ DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox
 KEGS | Apple II | @alekmaul | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/KEGS_2016-05-04.opk) | [more information](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
 OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Inactive | [Source](https://github.com/openMSX/openMSX/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/OpenMSX(Explorer)_2019-12-11.opk)
 ScummVM | Point-and-Click-Adventures | @jbanes | Active | [Source](https://github.com/jbanes/scummvm/) / [OPK](https://github.com/jbanes/scummvm/releases)
-UAE4ALL | Amiga | @zear | Inactive | [Source](https://github.com/zear/uae4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UAE4all_2014-12-02.opk) | insert Amiga 500 Kickstart ROM like this: `~/.uae4all/kick.rom`
+UAE4ALL | Amiga | @zear | Inactive | [Source](https://github.com/zear/uae4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UAE4all_2014-12-02.opk) | insert Amiga 500 Kickstart ROM(kick.rom) in here: `~/.uae4all/`
 Unreal Speccy Portable | ZX Spectrum | @DavidKnight | Inactive | [Source](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk)
 VICE | C64 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE-c64_2019-12-11.opk)
 VICE | C64(DTV), C128, CBM-II, PET, plus4, VIC-20 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE(Explorer)_2019-12-16.opk)
@@ -67,7 +67,7 @@ NGPCEmu | NeoGeo Pocket | @gameblabla | Active | [Source](https://github.com/gam
 OSwan | Wonderswan (B/W, Color) | @Gameblabla | Inactive | [Source](https://github.com/gameblabla/oswan) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Oswan_2019-10-09.opk)
 PicoDrive | Gamegear | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 Race | NeoGeo Pocket | @alexmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Race(Explorer)_2019-12-11.opk)
-ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Regba_2019-11-01.opk) | (Optional) exchange the BIOS like this: `~/.gpsp/gba_bios.bin`
+ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Regba_2019-11-01.opk) | (Optional) insert the Bios(gba_bios.bin) in here: `~/.gpsp/gba_bios.bin`
 SwanEmu | Wonderswan (B/W, Color) | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 
 
@@ -79,8 +79,9 @@ Gamebatte Palettes | SerjTargarien  | Active | [Source](https://github.com/SerjT
 
 ## Frontends
 
-Project | Maintainer | Status | Source/Website/OPK
-------- | ---------- | ------ | ------------------
+Project | Maintainer | Status | Source/Website/OPK | Additional Information
+------- | ---------- | ------ | ------------------ | ----------------------
+EmulationStation | Unknown | Active | [Source](https://github.com/ManuelSch81/RG350-EmulationStation_configured) / [OPK](https://github.com/ManuelSch81/RG350-EmulationStation_configured/raw/master/Internal%20SD%20Card/emulationstation.opk) | Installation Information in the Source
 Esoteric(350teric, GMenuNX) | @podulator  | Active | [Source](https://github.com/podulator/esoteric/releases) / [OPK](https://github.com/podulator/esoteric/releases)
 SimpleMenu | @fgl82  | Active | [Source](https://github.com/fgl82/simplemenu) / [OPK](https://github.com/fgl82/simplemenu/releases)
 
