@@ -23,6 +23,7 @@ Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Addit
 A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/A5200(Explorer)_2013-06-15.opk) | insert Atari 5200 Bios(5200.rom in here: `~/`
 CollecoD | ColecoVision | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ColecoD(Explorer)_2013-06-15%20.opk)
 DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxAtari_2014-04-28.opk)
+DinguxVectrex | Vectrex | @kerheol | Inactive | [Source](https://github.com/kerheol/dingux-vectrex) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxVectrex_2014-05-21.opk)
 EasyRPG | RPG Maker | @gameblabla | Inactive | [Source](https://github.com/carstene1ns/easyrpg-player) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/EasyRPG_2017-12-13.opk)
 FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) / [OPK](https://github.com/soarqin/fceux-for-retrogame/releases) | Disk System games need Disk System Bios(disksys.rom) in here: `~/.fceux/`
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
@@ -34,12 +35,12 @@ PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih
 PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) / [OPK](https://github.com/gameblabla/pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
 PocketSNES |SNES | @soarqin | Active | [Source](https://github.com/soarqin/PocketSNES/) / [OPK](https://github.com/soarqin/PocketSNES/releases)
 ProSystem | Atari7800 | @alekmaul | | [Source](https://github.com/alekmaul/prosystem) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ProSystem_2013-06-16%20(Explorer).opk)
-SmallPCFX | PC-FX | @gameblabla | Inactive | [Source](https://github.com/gameblabla/pcfx-mednafen) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/SmallPCFX.opk)
+SmallPCFX | PC-FX | @gameblabla | Inactive | [Source](https://github.com/gameblabla/pcfx-mednafen) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/SmallPCFX_2018-08.14.opk)
 SMS Plus GX | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 SNES9X |SNES | @soarqin | Active | [Source](https://github.com/soarqin/snes9x/releases) / [OPK](https://github.com/soarqin/snes9x/releases)
 Stella | Atari 2600 | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Stella-3.9.3) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Stella_2015-10-06.opk)
 Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/temper) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Temper_2017-08-08.opk) | (Optional) insert PCE Super System Card 3 Bios(syscard3.pce in here: `~/.temper/syscards/`
-3DOh | 3DO | @gameblabla | Inactive | [Source](https://github.com/gameblabla/3doh_gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/3DOh_2018-05-23.opkk)
+3DOh | 3DO | @gameblabla | Inactive | [Source](https://github.com/gameblabla/3doh_gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/3DOh_2018-05-23.opk)
 
 
 ## Computer Emulators
