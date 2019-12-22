@@ -154,6 +154,7 @@ Overheated | @gameblabla | Inactive | [Source](https://github.com/gameblabla/ove
 POWDER | Unknown |Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/POWDER.opk)
 PrBoom+ | @Ninoh-FOX | Active | [GitHub](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) / [OPK](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases)
 Puzzletube | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Puzzletube.opk)
+Thenesis Quake | @Thenesis | Inactive | [Source](https://github.com/gameblabla/hexahop) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Thenesis%20Quake.opk) | needs game files, [further information](https://github.com/thenesis-org/lp-public/releases/tag/v1.1)
 QuarterMaster | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) / [OPK](https://github.com/hi-ban/quartermaster/releases)
 REminiscence | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk)
 Rise of The Triad | @podulator | Inactive | [Source](https://github.com/podulator/RoTT) / [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Rise%20of%20The%20Triad.opk) | insert the Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
