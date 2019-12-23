@@ -26,7 +26,8 @@ DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retro
 DinguxVectrex | Vectrex | @kerheol | Inactive | [Source](https://github.com/kerheol/dingux-vectrex) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxVectrex_2014-05-21.opk)
 EasyRPG | RPG Maker | @gameblabla | Inactive | [Source](https://github.com/carstene1ns/easyrpg-player) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/EasyRPG_2017-12-13.opk)
 FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) / [OPK](https://github.com/soarqin/fceux-for-retrogame/releases) | Disk System games need Disk System Bios(disksys.rom) in here: `~/.fceux/`
-GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
+GenesisPlusGX | SMS, Genesis/MD, SegaCD | @Derynect | Active | [Source](https://github.com/Derynect/Genesis-Plus-GX) / [OPK](https://github.com/Derynect/Genesis-Plus-GX/releases)
+GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/Derynect/nestopia) / [OPK](https://github.com/jbanes/gngeo/releases)
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
 Nestopia | NES | @Derynect | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) / [OPK](https://github.com/Derynect/nestopia/releases)
@@ -66,7 +67,8 @@ Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Addit
 ------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 Desmume |Nintendo DS | @gameblabla | Inactive | [Source](https://github.com/gameblabla/desmume-gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Desmume_2016-01-22.opk)
 Gambatte | Gameboy (Color) | @hi-ban | Active | [Source](https://github.com/bardeci/dot-matrix-simulator/) / [OPK](https://github.com/bardeci/dot-matrix-simulator/releases)
-GenesisPlusGX | Gamegear | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk)
+GenesisPlusGX | SMS, Genesis/MD, SegaCD | @Derynect | Active | [Source](https://github.com/Derynect/Genesis-Plus-GX) / [OPK](https://github.com/Derynect/Genesis-Plus-GX/releases)
+GenesisPlusGX | Gamegear | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GPSP | Gameboy Advance | @Ninoh-FOX | Active | [Source](https://github.com/Ninoh-FOX/gpsp-rg350/) / [OPK](https://github.com/Ninoh-FOX/gpsp-rg350/releases)
 Handy | Atari Lynx | @gameblabla | Active | [Source](https://github.com/gameblabla/handy-rs97) / [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 NGPCEmu | NeoGeo Pocket | @gameblabla | Active | [Source](https://github.com/gameblabla/NGPCemu) / [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
@@ -222,3 +224,5 @@ https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
 
 <!-- TODO:-->
 <!-- Replace external sources for internal ones-->
+
+<!-- GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk) -->
