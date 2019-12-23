@@ -58,7 +58,7 @@ ScummVM | Point-and-Click-Adventures | @jbanes | Active | [Source](https://githu
 UAE4ALL | Amiga | @zear | Inactive | [Source](https://github.com/zear/uae4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UAE4all_2014-12-02.opk) | insert Amiga 500 Kickstart ROM(kick.rom) in here: `~/.uae4all/`
 Unreal Speccy Portable | ZX Spectrum | @DavidKnight | Inactive | [Source](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk)
 VICE | C64 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE-c64_2019-12-11.opk)
-VICE | C64(DTV), C128, CBM-II, PET, plus4, VIC-20 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE(Explorer)_2019-12-16.opk)
+VICE | C64(DTV), C128, CBM-II, PET, plus4, VIC-20 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE(Explorer)_2019-12-23.opk)
 Zerox86 | x86 | @Patrick Aalto | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Zerox86_2014.07.27.opk) | insert 4DOS.COM into: `~/` <br>[more information](http://zerox86.patrickaalto.com/index.html)
 
 
