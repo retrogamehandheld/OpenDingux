@@ -33,6 +33,7 @@ Nestopia | NES | @Derynect | Active | [Source](https://github.com/soarqin/fceux-
 PicoDrive | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/) | (Optional) insert BIOS here: `~/.picodrive`
 PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih/RG350_pcsx4all/) / [OPK](https://github.com/tonyjih/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
 PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) / [OPK](https://github.com/gameblabla/pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
+PCSX4ALL | Playstation | @soarqin	 | Active | [Source](https://github.com/soarqin/RG350_pcsx4all/) / [OPK](https://github.com/soarqin/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
 PocketSNES |SNES | @soarqin | Active | [Source](https://github.com/soarqin/PocketSNES/) / [OPK](https://github.com/soarqin/PocketSNES/releases)
 ProSystem | Atari7800 | @alekmaul | | [Source](https://github.com/alekmaul/prosystem) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ProSystem_2013-06-16%20(Explorer).opk)
 SmallPCFX | PC-FX | @gameblabla | Inactive | [Source](https://github.com/gameblabla/pcfx-mednafen) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/SmallPCFX_2018-08.14.opk)
