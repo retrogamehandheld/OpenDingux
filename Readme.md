@@ -13,7 +13,7 @@ For more information about shortcuts and other things, we like to refer you to [
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
 ------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
-Final Burn Alpha  | Arcade | @tonyjih | Active | [Source](https://github.com/tonyjih/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-11-27.opk)
+Final Burn Alpha  | Arcade | @soarquin | Active | [Source](https://github.com/soarqin/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/fba-sdl-fixed.opk)
 MAME4ALL | Arcade | @alekmaul | Inactive | [Source](https://github.com/alekmaul/mame4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/MAME4ALL_2014-01-04.opk)
 XMAME | Arcade | @slaanesh | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/XMAME_2014-12-31.opk) | needs ROMs to run [more information](http://www.slaanesh.net/)
 ## Console Emulators
