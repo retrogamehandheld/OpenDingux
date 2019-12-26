@@ -124,16 +124,19 @@ Finite | A Scrabble-Clone | Unknown | Legacy |  [OPK](https://github.com/retroga
 FreeBlocks | A puzzle game similar to Tetris Attack | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/FreeBlocks.opk)
 FreeDink | An adventure/role-playing game, similar to classic Zelda (2D top view) | Unknown | Inactive |[Source](https://www.gnu.org/software/freedink/) / [OPK**](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/freedink.opk)
 FreeDoom | A Total-Conversion of Doom | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/FreeDoom.opk)
+Free Heroes 2 | A Port for Heroes of Might & Magic 2 | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Free%20Heroes%202.opk) | Copy the original data/*.agg files to `~/.fheroes2/data` <br> Copy maps file (maps/*.mp2) to `~/.fheroes/maps`
 Fruit'Y | A Dreamcast Port of Fruit'Y | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Fruit'Y.opk)
 Ganbare Natsuki-San! | A Ganbare Natsuki-San! Port | @gameblabla | Inactive | [Source](https://github.com/gameblabla/Ganbare-Natsuki-San) / [OPK](https://github.com/gameblabla/Ganbare-Natsuki-San/raw/master/gnp.opk)
 Ghouls'n Ghosts Remix | A Jump and Run Remake of Ghouls'n Ghosts | @dmitry_smagin | Legacy | [OPK**](http://prizma.bmstu.ru/~exmortis/opk/ggr_056.opk)
 Giana's Return | A fanmade sequel of "The Great Giana Sisters" | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Giana's%20Return.opk)
 Griffon Legend | A RPG game with oldish graphics | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Griffon%20Legend.opk)
+Hase | A Worms Clone with Bunnies in Space | @theZiz | Inactive | [Source](https://github.com/theZiz/hase) / [OPK**](http://ziz.openhandhelds.org/hase/hase.opk)
 Hexen 2 - Hammer of Thyrion | A Hexen 2 Port | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/gcw0-hexen2/) / [OPK**](https://github.com/JohnnyonFlame/gcw0-hexen2/releases)  | insert Hexen II Data1 folder into: `~/.hexen2/`
 Hocoslamfly | A "Flappy Bird" Clone | @fgl82 | Active | [Source](https://github.com/fgl82/hocoslamfy) / [OPK](https://github.com/fgl82/hocoslamfy/releases)
 Hex-a-Hop | A hexagonal tile-based puzzle game | @gameblabla | Inactive | [Source](https://github.com/gameblabla/hexahop) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Hex-A-Hop.opk)
 Hydra Castle Labyrinth |  A freeware Indie platformer | @gameblabla | Inactive | [Source](https://github.com/gameblabla/hydracastlelabyrinth) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Hydra%20Castle%20Labyrinth.opk)
 Kobo Deluxe | A Space Shoot'em Up | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Kobo%20Deluxe.opk)
+KOF - Flames of Courage v5 | A Fighting game / Beat'em Up | Unknown | Legacy | [OPK**](https://drive.google.com/open?id=1HlGJIwxKIPYay5vPuiZ89_Kh_cgyytGh)
 Koules | A fast action arcade-style game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Koules.opk)
 Last Mission | A Shooter/Maze game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Last%20Mission.opk)
 Liero | A Worms-like Game against AI | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Liero.opk)
@@ -151,16 +154,17 @@ nKaruga | A 2D bullet hell shoot'em-up | @gameblabla | Inactive | [Source](https
 nCrafti | A Minecract Clone | @gameblabla | Inactive | [Source](https://github.com/gameblabla/crafti) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/nCrafti.opk)
 Odamex | A Doom Port | @JohnnyonFlame | Inactive | [Source](https://github.com/JohnnyonFlame/odamex) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Odamex.opk) | insert lowercase .WAD into: `~/` or `/media/data/local/share/games/doom` 
 OpenBOR | A OpenBOR Port |@DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenBOR.opk) | insert OpenBOR Pak Files into: `/usr/local/share/OpenBOR/Paks/`
-OpenJazz | A Port of Jack Jazzrabbit | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenJazz.opk) | insert Jazz Jackrabbit Data Files into: `~/.openjazz/`
+OpenJazz | A Port of Jazz Jackrabbit | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenJazz.opk) | insert Jazz Jackrabbit Data Files into: `~/.openjazz/`
 OpenSonic | A fanmade Sonic game | @dmitry_smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/OpenSonic.opk)
 Overheated | A homebrew caravan shooter | @gameblabla | Inactive | [Source](https://github.com/gameblabla/overheated) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Overheated.opk)
 POWDER | A graphical roguelike game | Unknown |Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/POWDER.opk)
 PrBoom+ | A Doom Engine Port for the RG350 | @Ninoh-FOX | Active | [GitHub](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) / [OPK](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases)
 Puzzletube | A puzzle game on a tube | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Puzzletube.opk)
-Thenesis Quake |a Quake and Quake II Port | @Thenesis | Inactive | [Source](https://github.com/gameblabla/hexahop) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Thenesis%20Quake.opk) | needs game files, [further information](https://github.com/thenesis-org/lp-public/releases/tag/v1.1)
-QuarterMaster | A remake of the World of Tanks Minigame | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) / [OPK](https://github.com/hi-ban/quartermaster/releases)
+Thenesis Quake |a Quake  Port | @Thenesis | Inactive | [Source](https://github.com/thenesis-org/lp-public) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Thenesis%20Quake.opk) | needs game files, [further information](https://github.com/thenesis-org/lp-public/releases/tag/v1.1)
+Thenesis Quake II |a Quake II Port | @Thenesis | Inactive | [Source](https://github.com/thenesis-org/lp-public) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Thenesis%20Quake%202.opk) | needs game files, [further information](https://github.com/thenesis-org/lp-public/releases/tag/v1.1)
+QuarterMaster | A Port of the World of Tanks Minigame | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) / [OPK](https://github.com/hi-ban/quartermaster/releases)
 REminiscence | A Flashback Engine Port | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk) | needs game files in: `~/.REminiscence/data/`
-Rise of The Triad | A Rise of The Triad Port | @podulator | Inactive | [Source](https://github.com/podulator/RoTT) / [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Rise%20of%20The%20Triad.opk) | insert the Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
+Rise of The Triad | A Rise of The Triad Port | @podulator | Inactive | [Source](https://github.com/podulator/RoTT) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Rise%20of%20The%20Triad.opk) | insert the Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
 Ri-Li | A 2D wooden toy engine game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Ri-Li.opk)
 rRootage | An OpenGLES conversion of Kenta Cho's rRootage bullet-hell shooter game | @jamesofarrell  | Active | [Source](https://github.com/jamesofarrell/rRootage-for-Handhelds/) / [OPK](https://github.com/jamesofarrell/rRootage-for-Handhelds/releases)
 Sabre | A Flight simulator with fighter planes of the Korean War era | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sabre.opk)
@@ -181,6 +185,7 @@ Strange Adventure in Infinite Space | A roquelike set in Space | Unknown | Legac
 STransball2 | A "Thrust" type arcade game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/STransball2.opk)
 Streets of Rage Remake v5.1 | A Streets of Rage Port | Unknown | Legacy | [OPK**](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | Recommended to set 'Video Options -> Shadow' from 'Reflected' to 'SOR type' to mitigate crashes.
 Stringrolled | A Puzzle Platformer with a Cat | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Stringrolled.opk)
+Super Mario War | A Multiplayer fanmade Super Mario Game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Super%20Mario%20War.opk)
 Super Methane Brothers | A Bubble Bobble like game |  @gameblabla | Inactive | [Source](https://github.com/gameblabla/methane) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Super%20Methane%20Brothers.opk)
 SuperTux | 'THE' Super Mario Clone of Linux | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/supertux) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/SuperTux.opk)
 Tile World | A Puzzle Game, emulating Chip's Challenge | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tile%20World.opk)
@@ -191,6 +196,7 @@ Wetspot 2 | A Port of Wetspot 2 | Unknown | Legacy | [OPK](https://github.com/re
 Witching Hour | A Slender Clone | gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Witching%20Hour.opk)
 Worship Vector | A Tower Defense game with simplistic Graphics | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Worship%20Vector.opk)
 Xump | A simple multi-platform puzzler | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Xump.opk)
+UQM | A Port of Star Control II | Unknown | Legacy | [OPK**](https://drive.google.com/file/d/16WiQ6Pgfoxi3NJ-veFh95_gwd5MgsCJv/view)
 
 
 ## Applications
