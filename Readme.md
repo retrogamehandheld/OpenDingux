@@ -13,7 +13,7 @@ For more information about shortcuts and other things, we like to refer you to [
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
 ------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
-Final Burn Alpha  | Arcade | @soarquin | Active | [Source](https://github.com/soarqin/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/fba-sdl-fixed.opk)
+Final Burn Alpha  | Arcade | @soarquin | Active | [Source](https://github.com/soarqin/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-12-24.opk)
 MAME4ALL | Arcade | @alekmaul | Inactive | [Source](https://github.com/alekmaul/mame4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/MAME4ALL_2014-01-04.opk)
 XMAME | Arcade | @slaanesh | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/XMAME_2014-12-31.opk) | needs ROMs to run [more information](http://www.slaanesh.net/)
 ## Console Emulators
@@ -53,7 +53,7 @@ CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM into: `~/.DCaSTaway/bios/rom` <br> disk image goes into: `~/.DCaSTaway/diskimages/`
 DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) / [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
 KEGS | Apple II | @alekmaul | Inactive | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/KEGS_2016-05-04.opk) | [more information](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
-OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Inactive | [Source](https://github.com/openMSX/openMSX/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/OpenMSX(Explorer)_2019-12-11.opk)
+OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Inactive | [Source](https://github.com/openMSX/openMSX/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/OpenMSX(Explorer%20%2B%20Remap)_2019-12-24.opk)
 ScummVM | Point-and-Click-Adventures | @jbanes | Active | [Source](https://github.com/jbanes/scummvm/) / [OPK](https://github.com/jbanes/scummvm/releases)
 UAE4ALL | Amiga | @zear | Inactive | [Source](https://github.com/zear/uae4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UAE4all_2014-12-02.opk) | insert Amiga 500 Kickstart ROM(kick.rom) in here: `~/.uae4all/`
 Unreal Speccy Portable | ZX Spectrum | @DavidKnight | Inactive | [Source](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk)
