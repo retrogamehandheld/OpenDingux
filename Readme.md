@@ -2,6 +2,10 @@
 
 List of software packages available for OpenDingux handhelds (RG350, PocketGO2,..), along with their maintainer, project status, and link to the project page itself (for reporting issues)
 
+Emulators and Games go into `media/data/apps` if you want to store them on your internal storage or into the *apps* folder of your SD-Card, located in `media/sdcard` when inserted into the device and connected via FTP/SFTP. With most emulators you will be able to pick your ROMs through the built in explorer, but it is recommended to put your ROMs into the *roms* folder of your SD-Card.
+
+Metadata needed for some Emulators and games will most likely need to go in here: `media/data/local/home`. You will find more information about that on the indivual entries for the game or emulator.
+
 If you know of any newer versions or games that were just released, let us know on our [Discord-Channel](https://discord.gg/p4uRmCd)! We try to keep this as up to date as possible, but with multiple versions and different Forks it can be hard to keep up sometimes. If you're one of the developers of unknown OPKs let us know so we can add you!
 
 For more information about shortcuts and other things, we like to refer you to [our Wiki](https://github.com/retrogamehandheld/OpenDingux/wiki)
@@ -212,6 +216,7 @@ Input tester | Input Tester | Unknown | Legacy | [OPK](https://github.com/retrog
 ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-dingux-calculator) / [OPK](https://github.com/Jakz/open-dingux-calculator/releases/)
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
 Performance | Power Settings | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Performance.opk)
+ST Terminal | Terminal | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/ST%20Terminal)
 
 
 *Developer has not provided a new OPK for his source <br>
@@ -232,4 +237,5 @@ https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/
 <!-- TODO:-->
 <!-- Replace external sources for internal ones-->
 
+<!-- OUTDATED ARCHIVE-->
 <!-- GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk) -->
