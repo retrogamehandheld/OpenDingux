@@ -12,6 +12,7 @@ For more information about shortcuts and other things, we like to refer you to [
 
 ~/ = usr/local/home
 
+
 ## Arcade Emulators
 
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
@@ -20,6 +21,8 @@ Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/Da
 Final Burn Alpha  | Arcade | @soarquin | Active | [Source](https://github.com/soarqin/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-12-24.opk)
 MAME4ALL | Arcade | @alekmaul | Inactive | [Source](https://github.com/alekmaul/mame4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/MAME4ALL_2014-01-04.opk)
 XMAME | Arcade | @slaanesh | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/XMAME_2014-12-31.opk) | needs ROMs to run [more information](http://www.slaanesh.net/)
+
+
 ## Console Emulators
 
 Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
@@ -34,6 +37,7 @@ GenesisPlusGX | SMS, Genesis/MD, SegaCD | @Derynect | Active | [Source](https://
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/Derynect/nestopia) / [OPK](https://github.com/jbanes/gngeo/releases)
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
+Mupen64 | Nintendo 64 | @nebulator | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Mupen64plus(Alpha)_2015-11-15.opk) | more of a proof of concept
 Nestopia | NES | @Derynect | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) / [OPK](https://github.com/Derynect/nestopia/releases)
 PicoDrive | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/) | (Optional) insert BIOS here: `~/.picodrive`
 PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih/RG350_pcsx4all/) / [OPK](https://github.com/tonyjih/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
@@ -78,6 +82,8 @@ Handy | Atari Lynx | @gameblabla | Active | [Source](https://github.com/gameblab
 NGPCEmu | NeoGeo Pocket | @gameblabla | Active | [Source](https://github.com/gameblabla/NGPCemu) / [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 OSwan | Wonderswan (B/W, Color) | @Gameblabla | Inactive | [Source](https://github.com/gameblabla/oswan) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Oswan_2019-10-09.opk)
 PicoDrive | Gamegear | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
+PokeMini | Pokémon-Mini | @gameblabla | Inactive | [Source](https://github.com/gameblabla/pokemini) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/PokeMini_2015-07-06.opk)
+Potator | Watara Supervision | @alekmaul | Inactive | [Source](https://github.com/alekmaul/potator) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Potator_2013-09-17.opk)
 Race | NeoGeo Pocket | @alexmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Race(Explorer)_2019-12-11.opk)
 ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Regba_2019-11-01.opk) | (Optional) insert the Bios(gba_bios.bin) in here: `~/.gpsp/gba_bios.bin`
 SwanEmu | Wonderswan (B/W, Color) | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
@@ -202,7 +208,7 @@ Strange Adventure in Infinite Space | A roquelike set in Space | Unknown | Legac
 STransball2 | A "Thrust" type arcade game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/STransball2.opk)
 Streets of Rage Remake v5.1 | A Streets of Rage Port | Unknown | Legacy | [OPK**](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | Recommended to set 'Video Options -> Shadow' from 'Reflected' to 'SOR type' to mitigate crashes.
 Stringrolled | A Puzzle Platformer with a Cat | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Stringrolled.opk)
-Super Mario War | A Multiplayer fanmade Super Mario Game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Super%20Mario%20War.opk)
+Super Mario War | A Multiplayer fanmade Super Mario Game | @gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Super%20Mario%20War.opk)
 Super Methane Brothers | A Bubble Bobble like game |  @gameblabla | Inactive | [Source](https://github.com/gameblabla/methane) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Super%20Methane%20Brothers.opk)
 SuperTux | 'THE' Super Mario Clone of Linux | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/supertux) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/SuperTux.opk)
 Tile World | A Puzzle Game, emulating Chip's Challenge | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tile%20World.opk)
