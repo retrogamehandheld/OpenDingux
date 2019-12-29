@@ -15,8 +15,8 @@ For more information about shortcuts and other things, we like to refer you to [
 
 ## Arcade Emulators
 
-Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
-------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
+Project | Emulated System(s) | Maintainer | Status | Data  | Additional Information 
+------- | ------------------ | ---------- | ------ | ----- | ----------------------
 Daphne | Laserdisk | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Daphne) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Daphne_2015-05-07.opk) | [Tutorial for Games](https://boards.dingoonity.org/gcw-releases/daphne/)
 Final Burn Alpha  | Arcade | @soarquin | Active | [Source](https://github.com/soarqin/fba-sdl) /  [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/FBA(Explorer)_2019-12-24.opk)
 MAME4ALL | Arcade | @alekmaul | Inactive | [Source](https://github.com/alekmaul/mame4all) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/MAME4ALL_2014-01-04.opk)
@@ -25,8 +25,8 @@ XMAME | Arcade | @slaanesh | Legacy | [OPK](https://github.com/retrogamehandheld
 
 ## Console Emulators
 
-Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
-------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
+Project | Emulated System(s) | Maintainer | Status | Data  | Additional Information 
+------- | ------------------ | ---------- | ------ | ----- | ----------------------
 A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/A5200(Explorer)_2013-06-15.opk) | insert Atari 5200 Bios(5200.rom in here: `~/`
 CollecoD | ColecoVision | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ColecoD(Explorer)_2013-06-15%20.opk)
 DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxAtari_2014-04-28.opk)
@@ -55,8 +55,8 @@ Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gamebla
 
 ## Computer Emulators
 
-Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK   | Additional Information 
-------- | ------------------ | ---------- | ------ | -------------------- | ----------------------
+Project | Emulated System(s) | Maintainer | Status | Data   | Additional Information 
+------- | ------------------ | ---------- | ------ | -------------------- | --------
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM into: `~/.DCaSTaway/bios/rom` <br> disk image goes into: `~/.DCaSTaway/diskimages/`
 DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) / [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
@@ -71,8 +71,8 @@ Zerox86 | x86 | @Patrick Aalto | Legacy | [OPK](https://github.com/retrogamehand
 
 
 ## Handheld Emulators
-Project | Emulated System(s) | Maintainer | Status | Source/Website/OPK  | Additional Information 
-------- | ------------------ | ---------- | ------ | ------------------- | ----------------------
+Project | Emulated System(s) | Maintainer | Status | Data | Additional Information 
+------- | ------------------ | ---------- | ------ | ------------------- | -------
 Desmume |Nintendo DS | @gameblabla | Inactive | [Source](https://github.com/gameblabla/desmume-gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Desmume_2016-01-22.opk)
 Gambatte | Gameboy (Color) | @hi-ban | Active | [Source](https://github.com/bardeci/dot-matrix-simulator/) / [OPK](https://github.com/bardeci/dot-matrix-simulator/releases)
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @Derynect | Active | [Source](https://github.com/Derynect/Genesis-Plus-GX) / [OPK](https://github.com/Derynect/Genesis-Plus-GX/releases)
@@ -91,22 +91,22 @@ SwanEmu | Wonderswan (B/W, Color) | @Gameblabla | Active | [Website](https://boa
 
 ## Emulator Resources (Skins, palettes, cheats, etc)
 
-Project | Maintainer | Status | Source/Website
-------- | ---------- | ------ | ------------------
+Project | Maintainer | Status | Data
+------- | ---------- | ------ | ----
 Gamebatte Palettes | SerjTargarien  | Active | [Source](https://github.com/SerjTargarien/gambatte-resources)
 
 ## Frontends
 
-Project | Maintainer | Status | Source/Website/OPK | Additional Information
-------- | ---------- | ------ | ------------------ | ----------------------
+Project | Maintainer | Status | Data | Additional Information
+------- | ---------- | ------ | ---- | ----------------------
 EmulationStation | Unknown | Active | [Source](https://github.com/ManuelSch81/RG350-EmulationStation_configured) / [OPK](https://github.com/ManuelSch81/RG350-EmulationStation_configured/raw/master/Internal%20SD%20Card/emulationstation.opk) | Installation Information in the Source
 Esoteric(350teric, GMenuNX) | @podulator  | Active | [Source](https://github.com/podulator/esoteric/releases) / [OPK](https://github.com/podulator/esoteric/releases)
 SimpleMenu | @fgl82  | Active | [Source](https://github.com/fgl82/simplemenu) / [OPK](https://github.com/fgl82/simplemenu/releases)
 
 
 ## Games & Ports
-Project | Description | Maintainer | Status | Source/Website/OPK  | Additional Information
-------- | ----------- | ---------- | ------ | ------------------- | ----------------------
+Project | Description | Maintainer | Status | Data  | Additional Information
+------- | ----------- | ---------- | ------ | ----- | ----------------------
 Abbaye des Morts | A L'Abbaye des Morts port | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/abbaye-des-morts) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Abbaye%20des%20Morts.opk)
 Abuse | A dystopic Stick-Shooter/Platformer | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Abuse.opk)
 Abu Simbel Profanation Deluxe | A Port for Abu Simbel Profanation Deluxe | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/profadeluxe) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Abu%20Simbel%20Profanation%20Deluxe.opk)
@@ -206,7 +206,7 @@ Thenesis Quake |a Quake  Port | @Thenesis | Inactive | [Source](https://github.c
 Thenesis Quake II |a Quake II Port | @Thenesis | Inactive | [Source](https://github.com/thenesis-org/lp-public) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Thenesis%20Quake%202.opk) | needs game files, [further information](https://github.com/thenesis-org/lp-public/releases/tag/v1.1)
 Quake 3 | A port for Quake 3 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Quake%203.opk)
 QuarterMaster | A remake of the World of Tanks Minigame | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) / [OPK](https://github.com/hi-ban/quartermaster/releases)
-REminiscence | A Flashback Engine Port | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk) | needs game files in: `~/.REminiscence/data/`
+REminiscence | A Flashback Engine Port | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk) | needs game files in: `~/.REminiscence/ data/`
 Rise of The Triad | A Rise of The Triad Port | @podulator | Inactive | [Source](https://github.com/podulator/RoTT) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Rise%20of%20The%20Triad.opk) | insert the Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
 Ri-Li | A 2D wooden toy engine game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Ri-Li.opk)
 Roadfighter | A Port of Roadfighter | Unknown | Legacy | [OPK**](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/roadfighter.opk)
@@ -262,8 +262,8 @@ Zelda: Time to Triumph | Part Three of a Homebrew Zelda Trilogy | Unknown | Lega
 
 
 ## Applications
-Project | Use-Case | Maintainer | Status | Source-Code/Website/OPK 
-------- | -------- | ---------- | ------ | -----------------------
+Project | Use-Case | Maintainer | Status | Data 
+------- | -------- | ---------- | ------ | ----
 Bard | E-book Reader | @festvox | Inactive |  [Source](https://github.com/festvox/bard) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Bard.opk)
 FFPlay | Video Player | @denis-n-kuznetsov | Inactive |  [Source](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/FFPlay.opk)
 Glutexto | Text Editor | @Ziz | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Glutexto.opk)
