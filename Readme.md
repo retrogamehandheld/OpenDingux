@@ -254,7 +254,7 @@ Worship Vector | A Tower Defense game with simplistic Graphics | Unknown | Legac
 Xump | A simple multi-platform puzzler | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Xump.opk)
 UQM | A Port of Star Control II | Unknown | Legacy | [OPK**](https://drive.google.com/file/d/16WiQ6Pgfoxi3NJ-veFh95_gwd5MgsCJv/view)
 Zatackax | A 2D game like Curve Fever | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Zatackax.opk)
-Zelda: Navi's Quest | A fanmade Zelda game, sadly only in french | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Zelda%20-%20Navi's%20Quest%201.6.opk)
+Zelda: Navi's Quest | A fanmade Zelda game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Zelda%20-%20Navi's%20Quest%201.6.opk) | changeable language in the settings
 Zelda: Picross | Another fanmade Zelda game | @gameblabla | Inactive | [Source](https://github.com/gameblabla/zeldapicross) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Zelda%20-%20Picross.opk)
 Zelda: Return of the Hylian | Part One of a Homebrew Zelda Trilogy | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Zelda%20-%20Return%20of%20the%20Hylian.opk)
 Zelda: Onilink Begins | Part Two of a Homebrew Zelda Trilogy | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Zelda%20-%20Onilink%20Begins.opk)
