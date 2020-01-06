@@ -57,6 +57,7 @@ Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gamebla
 
 Project | Emulated System(s) | Maintainer | Status | Data   | Additional Information 
 ------- | ------------------ | ---------- | ------ | -------------------- | --------
+Arnold | Amstrad | @gameblabla | Inactive | [Source](https://github.com/gameblabla/arnold_gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Arnold_2019-12-03.opk)
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM into: `~/.DCaSTaway/bios/rom` <br> disk image goes into: `~/.DCaSTaway/diskimages/`
 DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
@@ -225,6 +226,7 @@ Skifree | A 2D skiing game | Unknown | Legacy | [OPK](https://github.com/retroga
 Slappa! | An Arcade kungfu minigame | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Slappa!.opk)
 Snowman | A 2.5D Plattformer with a Snowman as Protagonist | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Snowman.opk)
 Sonic Robo Blast 2 | A fanmade 3D Sonic game Port | @gameblabla | Inactive | [Source](https://github.com/gameblabla/srb2-gcw) / [OPK**](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8)
+Sonic Robo Blast 2 Kart| SRB2Kart is a kart racing mod based on the 3D Sonic the Hedgehog fangame Sonic Robo Blast 2 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/Kart-Public) / [OPK**](https://gameblabla.nl/files/ipk/gcw0/srb2kart.opk)
 Spartak Chess | A Chess Game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Spartak%20Chess.opk)
 Spout | A Simple caveflying game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Spout.opk)
 Sqrxz | A Jump’n’Run puzzle game with high frustration factor | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sqrxz.opk)
