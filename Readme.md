@@ -14,14 +14,14 @@ For more information about shortcuts and other things, we like to refer you to [
 
 ## Contents
 
- - #### [Arcade Emulators](#arcade-emulators-1)
- - #### [Console Emulators](#console-emulators-1)
- - #### [Computer Emulators](#computer-emulators-1)
- - #### [Handheld Emulators](#handheld-emulators-1)
- - #### [Emulator Resources](#emulator-resources-skins-palettes-cheats-etc)
- - #### [Frontends](#frontends-1)
- - #### [Games & Ports](#games--ports-1)
- - #### [Applications](#applications-1)
+ - [Arcade Emulators](#arcade-emulators-1)
+ - [Console Emulators](#console-emulators-1)
+ - [Computer Emulators](#computer-emulators-1)
+ - [Handheld Emulators](#handheld-emulators-1)
+ - [Emulator Resources](#emulator-resources-skins-palettes-cheats-etc)
+ - [Frontends](#frontends-1)
+ - [Games & Ports](#games--ports-1)
+ - [Applications](#applications-1)
 
 
  <br>
