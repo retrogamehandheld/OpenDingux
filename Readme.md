@@ -86,7 +86,7 @@ BeebEm | BBC Micro | @Jez | Active | [Source]https://github.com/jeremyrayner/bee
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM into: `~/.DCaSTaway/bios/rom` <br> disk image goes into: `~/.DCaSTaway/diskimages/`
 DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
-KEGS | Apple II | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/KEGS_2016-05-04.opk) | [more information](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
+KEGS | Apple II | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/KEGS_2016-05-04.opk) | [more information](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
 OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Inactive | [Source](https://github.com/openMSX/openMSX/) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/OpenMSX(Explorer%20%2B%20Remap)_2019-12-24.opk)
 ScummVM | Point-and-Click-Adventures | @jbanes | Active | [Source](https://github.com/jbanes/scummvm/) [OPK](https://github.com/jbanes/scummvm/releases)
 UAE4ALL | Amiga | @zear | Inactive | [Source](https://github.com/zear/uae4all) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UAE4all_2014-12-02.opk) | insert Amiga 500 Kickstart ROM(kick.rom) in here: `~/.uae4all/`
@@ -102,7 +102,7 @@ Project | Emulated System(s) | Maintainer | Status | Data | Additional Informati
 Desmume |Nintendo DS | @gameblabla | Inactive | [Source](https://github.com/gameblabla/desmume-gcw0) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Desmume_2016-01-22.opk)
 Gambatte | Gameboy (Color) | @hi-ban | Active | [Source](https://github.com/bardeci/dot-matrix-simulator/) [OPK](https://github.com/bardeci/dot-matrix-simulator/releases)
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @Derynect | Active | [Source](https://github.com/Derynect/Genesis-Plus-GX) [OPK](https://github.com/Derynect/Genesis-Plus-GX/releases)
-GenesisPlusGX | Gamegear | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) [OPK](https://github.com/retrogamehandheld/OpenDingux/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk)
+GenesisPlusGX | Gamegear | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
 GPSP | Gameboy Advance | @Ninoh-FOX | Active | [Source](https://github.com/Ninoh-FOX/gpsp-rg350/) [OPK](https://github.com/Ninoh-FOX/gpsp-rg350/releases)
 Handy | Atari Lynx | @gameblabla | Active | [Source](https://github.com/gameblabla/handy-rs97) [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 NGPCEmu | NeoGeo Pocket | @gameblabla | Active | [Source](https://github.com/gameblabla/NGPCemu) [OPK](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
@@ -276,8 +276,9 @@ UMG Demo	| A Jump and Run Plattformer with GameBoy Optics | @zear | Legacy | [OP
 Vecteroids | A 2D Asteroids Clone | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Vectoroids.opk)
 Vorton | A Port of Vorton, sadly only in spanish | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Vorton.opk)
 Wetspot 2 | A Port of Wetspot 2 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Wetspot%202.opk)
-Witching Hour | A Slender Clone | gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Witching%20Hour.opk)
+Witching Hour | A Slender Clone | @gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Witching%20Hour.opk)
 Worship Vector | A Tower Defense game with simplistic Graphics | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Worship%20Vector.opk)
+XRick | A Dangerous Rick port | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/XRick%20.opk)
 Xump | A simple multi-platform puzzler | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Xump.opk)
 UQM | A Port of Star Control II | Unknown | Legacy | [OPK**](https://drive.google.com/file/d/16WiQ6Pgfoxi3NJ-veFh95_gwd5MgsCJv/view)
 Zatackax | A 2D game like Curve Fever | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Zatackax.opk)
