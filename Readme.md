@@ -81,7 +81,7 @@ Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gamebla
 
 Project | Emulated System(s) | Maintainer | Status | Data   | Additional Information 
 ------- | ------------------ | ---------- | ------ | -------------------- | --------
-Arnold | Amstrad | @gameblabla | Inactive | [Source](https://github.com/gameblabla/arnold_gcw0) / [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Arnold_2019-12-03.opk)
+Arnold | Amstrad | @gameblabla | Inactive | [Source](https://github.com/gameblabla/arnold_gcw0)  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Arnold_2019-12-03.opk)
 BeebEm | BBC Micro | @Jez | Active | [Source]https://github.com/jeremyrayner/beebem-rg350/) [OPK](https://github.com/jeremyrayner/beebem-rg350/releases) | ROMs, saves and per-game config rea/write from/to   `~/.beebem/`
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM into: `~/.DCaSTaway/bios/rom` <br> disk image goes into: `~/.DCaSTaway/diskimages/`
@@ -250,8 +250,8 @@ Shooter game | A minimalist scroll shooter | @slapstick | Legacy | [OPK](https:/
 Skifree | A 2D skiing game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Skifree.opk)
 Slappa! | An Arcade kungfu minigame | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Slappa!.opk)
 Snowman | A 2.5D Plattformer with a Snowman as Protagonist | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Snowman.opk)
-Sonic Robo Blast 2 | A fanmade 3D Sonic game Port | @gameblabla | Inactive | [Source](https://github.com/gameblabla/srb2-gcw) / [OPK**](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8)
-Sonic Robo Blast 2 Kart| SRB2Kart is a kart racing mod based on the 3D Sonic the Hedgehog fangame Sonic Robo Blast 2 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/Kart-Public) / [OPK**](https://gameblabla.nl/files/ipk/gcw0/srb2kart.opk)
+Sonic Robo Blast 2 | A fanmade 3D Sonic game Port | @gameblabla | Inactive | [Source](https://github.com/gameblabla/srb2-gcw) [OPK**](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8)
+Sonic Robo Blast 2 Kart| SRB2Kart is a kart racing mod based on the 3D Sonic the Hedgehog fangame Sonic Robo Blast 2 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/Kart-Public) [OPK**](https://gameblabla.nl/files/ipk/gcw0/srb2kart.opk)
 Spartak Chess | A Chess Game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Spartak%20Chess.opk)
 Spout | A Simple caveflying game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Spout.opk)
 Sqrxz | A Jump’n’Run puzzle game with high frustration factor | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Sqrxz.opk)
@@ -275,7 +275,7 @@ Ultratumba | A 2D game about finding the living person in a tomb | Unknown | Leg
 UMG Demo	| A Jump and Run Plattformer with GameBoy Optics | @zear | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/UMG%20Demo.opk)
 Vecteroids | A 2D Asteroids Clone | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Vectoroids.opk)
 Vorton | A Port of Vorton, sadly only in spanish | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Vorton.opk)
-VVVVVV | A Port of the original VVVVVV | @JamesOFarrell | Active | [Source](https://github.com/jamesofarrell/VVVVVV) [OPK](https://github.com/jamesofarrell/VVVVVV/releases/)
+VVVVVV | A Port of the original VVVVVV | @JamesOFarrell | Active | [Source](https://github.com/jamesofarrell/VVVVVV) [OPK](https://github.com/jamesofarrell/VVVVVV/releases/) | You need data.zip from the retail version or the Make and Play version found [here](http://www.flibitijibibo.com/VVVVVV-MP-10202016.zip). Unzip the zip-file and insert the data.zip into:`~/.local/share/VVVVVV/data.zip`
 Wetspot 2 | A Port of Wetspot 2 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Wetspot%202.opk)
 Witching Hour | A Slender Clone | @gameblabla | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Witching%20Hour.opk)
 Worship Vector | A Tower Defense game with simplistic Graphics | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Worship%20Vector.opk)
