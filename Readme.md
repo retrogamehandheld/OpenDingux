@@ -89,6 +89,7 @@ DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox
 KEGS | Apple II | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/KEGS_2016-05-04.opk) | [more information](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
 OpenMSX | MSX (1, 2, 2+) | @MBilderbeek | Inactive | [Source](https://github.com/openMSX/openMSX/) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/OpenMSX(Explorer%20%2B%20Remap)_2019-12-24.opk)
 ScummVM | Point-and-Click-Adventures | @jbanes | Active | [Source](https://github.com/jbanes/scummvm/) [OPK](https://github.com/jbanes/scummvm/releases)
+ScummVM | Point-and-Click-Adventures | @craigsc | Active | [Source](https://github.com/craigsc/scummvm-rg350/) [OPK](https://github.com/craigsc/scummvm-rg350/releases) | Based on Scummvm v2.2git (2020), supports Blade Runner
 UAE4ALL | Amiga | @zear | Inactive | [Source](https://github.com/zear/uae4all) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UAE4all_2014-12-02.opk) | insert Amiga 500 Kickstart ROM(kick.rom) in here: `~/.uae4all/`
 Unreal Speccy Portable | ZX Spectrum | @DavidKnight | Inactive | [Source](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk)
 VICE | C64 | @Dmitry Smagin | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/VICE-c64_2019-12-11.opk)
