@@ -82,7 +82,7 @@ Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gamebla
 Project | Emulated System(s) | Maintainer | Status | Data   | Additional Information 
 ------- | ------------------ | ---------- | ------ | -------------------- | --------
 Arnold | Amstrad | @gameblabla | Inactive | [Source](https://github.com/gameblabla/arnold_gcw0)  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Arnold_2019-12-03.opk)
-BeebEm | BBC Micro | @Jez | Active | [Source]https://github.com/jeremyrayner/beebem-rg350/) [OPK](https://github.com/jeremyrayner/beebem-rg350/releases) | ROMs, saves and per-game config rea/write from/to   `~/.beebem/`
+BeebEm | BBC Micro | @Jez | Active | [Source](https://github.com/jeremyrayner/beebem-rg350/) [OPK](https://github.com/jeremyrayner/beebem-rg350/releases) | ROMs, saves and per-game config rea/write from/to   `~/.beebem/`
 CrocoDS | Amstrad | @Kyuran | Active | [Website](https://www.kyuran.be/rg350/)
 DCaSTaway | Atari ST | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DcaSTaway_2014-11-09.opk) | insert TOS 1.04 UK ROM into: `~/.DCaSTaway/bios/rom` <br> disk image goes into: `~/.DCaSTaway/diskimages/`
 DOSBox | MS-DOS | @soarqin | Active | [Source](https://github.com/soarqin/dosbox-rg350) [OPK*](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Dosbox(Explorer)_2019-11-12%20.opk)
