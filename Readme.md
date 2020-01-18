@@ -303,11 +303,10 @@ Glutexto | Text Editor | @Ziz | Legacy |  [OPK](https://github.com/retrogamehand
 GMU | Music Player | @denis-n-kuznetsov | Inactive | [Source](https://github.com/denis-n-kuznetsov/gmu) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/GMU.opk)
 GCWConnect | Wifi Settings (needs WIFI-Adapter) | skipmeister123 | Inactive | [Source](https://github.com/skipmeister123/gcwconnect/) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/GCWConnect.opk)
 HWTest | Input Tester | @tonyjih | Inactive | [Source](https://github.com/tonyjih/RG350_input-test) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/HWTest.opk)
-Input tester | Input Tester | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Input%20tester.opk)
 ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-dingux-calculator) [OPK](https://github.com/Jakz/open-dingux-calculator/releases/)
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
 Performance | Power Settings | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Performance.opk)
-ST Terminal | Terminal | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/ST%20Terminal)
+SDL Terminal | Terminal | @Jamesofarrell | Active | [Source](https://github.com/jamesofarrell/st-sdl) [OPK](https://github.com/jamesofarrell/st-sdl/releases/tag/0.0.1)
 
 
 *Developer has not provided a new OPK for his source <br>
@@ -315,7 +314,7 @@ ST Terminal | Terminal | Unknown | Legacy | [OPK](https://github.com/retrogameha
 
 
 
-There are also other software repositories located at the following links if you're looking to "shop" for software:
+Most of the software should be found here, since it's a collection of all repositories around the Internet, but here are also other software repositories located at the following links if you want to check if we missed something ;)
 
 http://www.gcw-zero.com/downloads
 
