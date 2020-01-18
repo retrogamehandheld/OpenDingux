@@ -62,8 +62,8 @@ GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](
 GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/Derynect/nestopia) [OPK](https://github.com/jbanes/gngeo/releases)
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
 Mupen64 | Nintendo 64 | @nebulator | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Mupen64plus(Alpha)_2015-11-15.opk) | more of a proof of concept
-NEO4All | NEo Geo CD | Unknown | Active | [OPK]()
-Nestopia | NES | @Derynect | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) [OPK](https://github.com/Derynect/nestopia/releases)
+NEO4All | NEo Geo CD | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/NEO4All_2020-01-17.opk) | insert BIOS (neocd.bin) in here: `~/.neo4all/` and games (*.cue / *.img / *.sub) in here: `~/.neo4all/roms`
+Nestopia | NES | @Derynect | Active*** | [Source](https://github.com/soarqin/fceux-for-retrogame/) [OPK](https://github.com/Derynect/nestopia/releases)
 PicoDrive | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/) | (Optional) insert BIOS here: `~/.picodrive`
 PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih/RG350_pcsx4all/) [OPK](https://github.com/tonyjih/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
 PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) [OPK](https://github.com/gameblabla/pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
@@ -311,7 +311,7 @@ ST Terminal | Terminal | Unknown | Legacy | [OPK](https://github.com/retrogameha
 
 
 *Developer has not provided a new OPK for his source <br>
-**Uses external website
+**Uses external website <br>
 
 
 
