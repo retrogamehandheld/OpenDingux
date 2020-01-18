@@ -62,6 +62,7 @@ GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](
 GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/Derynect/nestopia) [OPK](https://github.com/jbanes/gngeo/releases)
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
 Mupen64 | Nintendo 64 | @nebulator | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Mupen64plus(Alpha)_2015-11-15.opk) | more of a proof of concept
+NEO4All | NEo Geo CD | Unknown | Active | [OPK]()
 Nestopia | NES | @Derynect | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) [OPK](https://github.com/Derynect/nestopia/releases)
 PicoDrive | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/) | (Optional) insert BIOS here: `~/.picodrive`
 PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih/RG350_pcsx4all/) [OPK](https://github.com/tonyjih/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
@@ -232,7 +233,7 @@ PrBoom+ | A Doom Engine Port for the RG350 | @Ninoh-FOX | Active | [GitHub](http
 Puzzletube | A puzzle game on a tube | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Puzzletube.opk)
 Thenesis Quake |a Quake  Port | @Thenesis | Inactive | [Source](https://github.com/thenesis-org/lp-public) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Thenesis%20Quake.opk) | needs game files, [further information](https://github.com/thenesis-org/lp-public/releases/tag/v1.1)
 Thenesis Quake II |a Quake II Port | @Thenesis | Inactive | [Source](https://github.com/thenesis-org/lp-public) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Thenesis%20Quake%202.opk) | needs game files, [further information](https://github.com/thenesis-org/lp-public/releases/tag/v1.1)
-Quake 3 | A port for Quake 3 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Quake%203.opk)
+Quake 3 | A port for Quake 3 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Quake%203.opk) | Insert Quake 3 Files into `~/.q3a/`
 QuarterMaster | A remake of the World of Tanks Minigame | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) [OPK](https://github.com/hi-ban/quartermaster/releases)
 REminiscence | A Flashback Engine Port | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk) | needs game files in: `~/.REminiscence/ data/`
 Rise of The Triad | A Rise of The Triad Port | @podulator | Inactive | [Source](https://github.com/podulator/RoTT) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Rise%20of%20The%20Triad.opk) | insert the Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
@@ -272,6 +273,7 @@ Tail-Tale | A great action puzzle game port | @Shin-NiL | Legacy | [OPK](https:/
 Tappy Plane |  A "Flappy Bird" Clone with a plane | @MikeDX | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tappy%20Plane.opk)
 Tile World | A Puzzle Game, emulating Chip's Challenge | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tile%20World.opk)
 Triple Trapled | An Arcade Game about collecting cubes | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Triple%20Trapled.opk)
+Tron-Clone | A recreation of the classic arcade game Tron | @Jamesofarell | Active | [Source](https://github.com/jamesofarrell/tron-clone) [OPK](https://github.com/jamesofarrell/tron-clone/releases)
 Tux Football| A fun Sensible Soccer clone | @DavidKnight247 | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tux%20Football.opk)
 Ultratumba | A 2D game about finding the living person in a tomb | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Ultratumba.opk)
 UMG Demo	| A Jump and Run Plattformer with GameBoy Optics | @zear | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/UMG%20Demo.opk)
