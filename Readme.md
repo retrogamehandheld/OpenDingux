@@ -63,7 +63,7 @@ GnGeo | NeoGeo | @jbanes | Active | [Source](https://github.com/Derynect/nestopi
 JZIntv | Intellivision | @DavidKnight247| Inactive | [Source](https://github.com/DavidKnight247/jzIntv) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/JzIntv_2015-03-28.opk)
 Mupen64 | Nintendo 64 | @nebulator | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Mupen64plus(Alpha)_2015-11-15.opk) | more of a proof of concept
 NEO4All | NEo Geo CD | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/NEO4All_2020-01-17.opk) | insert BIOS (neocd.bin) in here: `~/.neo4all/` and games (*.cue / *.img / *.sub) in here: `~/.neo4all/roms`
-Nestopia | NES | @Derynect | Active*** | [Source](https://github.com/soarqin/fceux-for-retrogame/) [OPK](https://github.com/Derynect/nestopia/releases)
+Nestopia | NES | @Derynect | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) [OPK](https://github.com/Derynect/nestopia/releases)
 PicoDrive | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/) | (Optional) insert BIOS here: `~/.picodrive`
 PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih/RG350_pcsx4all/) [OPK](https://github.com/tonyjih/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
 PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) [OPK](https://github.com/gameblabla/pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
@@ -114,7 +114,7 @@ PicoDrive | Gamegear | @Gameblabla | Active | [Website](https://boards.dingoonit
 PokeMini | Pokémon-Mini | @gameblabla | Inactive | [Source](https://github.com/gameblabla/pokemini) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/PokeMini_2015-07-06.opk)
 Potator | Watara Supervision | @alekmaul | Inactive | [Source](https://github.com/alekmaul/potator) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Potator_2013-09-17.opk)
 Race | NeoGeo Pocket | @alexmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Race(Explorer)_2019-12-11.opk)
-ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ReGBA_2019-12-27.opk) | (Optional) insert the Bios(gba_bios.bin) in here: `~/.gpsp/gba_bios.bin`
+ReGBA | Gameboy Advance | @soarqin | Active | [Source](https://github.com/soarqin/regba) [OPK**](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ReGBA_2019-12-26.opk) | (Optional) insert the Bios(gba_bios.bin) in here: `~/.gpsp/gba_bios.bin`
 SwanEmu | Wonderswan (B/W, Color) | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 
 
