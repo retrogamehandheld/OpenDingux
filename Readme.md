@@ -55,7 +55,7 @@ A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehand
 CollecoD | ColecoVision | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ColecoD(Explorer)_2013-06-15%20.opk)
 DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxAtari_2014-04-28.opk)
 DinguxVectrex | Vectrex | @kerheol | Inactive | [Source](https://github.com/kerheol/dingux-vectrex) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxVectrex_2014-05-21.opk)
-EasyRPG | RPG Maker 2000/2003 | @gameblabla | Active | [Source](https://github.com/carstene1ns/easyrpg-player) [OPK**](https://gameblabla.nl/files/ipk/gcw0/EasyRPG_gcw0_rg350.opk) | insert RTP-files into either: `~/.easyrpg/rtp2k` for RPG Maker 2000 or `~/.easyrpg/rtp2k3' for RPG Maker 2003
+EasyRPG | RPG Maker 2000/2003 | @gameblabla | Active | [Source](https://github.com/carstene1ns/easyrpg-player) [OPK**](https://gameblabla.nl/files/ipk/gcw0/EasyRPG_gcw0_rg350.opk) | insert RTP-files into either: `~/.easyrpg/rtp2k` for RPG Maker 2000 or `~/.easyrpg/rtp2k3` for RPG Maker 2003
 FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) [OPK](https://github.com/soarqin/fceux-for-retrogame/releases) | Disk System games need Disk System Bios(disksys.rom) in here: `~/.fceux/`
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @Derynect | Active | [Source](https://github.com/Derynect/Genesis-Plus-GX) [OPK](https://github.com/Derynect/Genesis-Plus-GX/releases)
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
@@ -114,7 +114,7 @@ PicoDrive | Gamegear | @Gameblabla | Active | [Website](https://boards.dingoonit
 PokeMini | Pokémon-Mini | @gameblabla | Inactive | [Source](https://github.com/gameblabla/pokemini) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/PokeMini_2015-07-06.opk)
 Potator | Watara Supervision | @alekmaul | Inactive | [Source](https://github.com/alekmaul/potator) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Potator_2013-09-17.opk)
 Race | NeoGeo Pocket | @alexmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Race(Explorer)_2019-12-11.opk)
-ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Regba_2019-11-01.opk) | (Optional) insert the Bios(gba_bios.bin) in here: `~/.gpsp/gba_bios.bin`
+ReGBA | Gameboy Advance | @pcercuei | Inactive | [Source](https://github.com/pcercuei/ReGBA) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ReGBA_2019-12-27.opk) | (Optional) insert the Bios(gba_bios.bin) in here: `~/.gpsp/gba_bios.bin`
 SwanEmu | Wonderswan (B/W, Color) | @Gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 
 
