@@ -4,7 +4,8 @@ List of software packages available for OpenDingux handhelds (RG350, PocketGO2,.
 
 Emulators and Games go into `media/data/apps` if you want to store them on your internal storage or into the *apps* folder of your SD-Card, located in `media/sdcard` when inserted into the device and connected via FTP/SFTP. With most emulators you will be able to pick your ROMs through the built in explorer, but it is recommended to put your ROMs into the *roms* folder of your SD-Card. Some Games were originally made for the GCW0 which had swapped the X and Y Button, so it may be, that you will have to swap those as well in some games. Certain Games and Emulators are made with the second stick of the RG350 in mind and my not work as well on other systems.
 
-Metadata needed for some Emulators and games will most likely need to go in here: `media/data/local/home`. You will find more information about that on the indivual entries for the game or emulator.
+Metadata needed for some Emulators and games will most likely need to go in here: `media/data/local/home`. You will find more information about that on the indivual entries for the game or emulator. Save files will be located in here: `media/data/local/home/.YourEmulatorOrGame` most of the time! 
+
 
 If you know of any newer versions or games that were just released, let us know on our [Discord-Channel](https://discord.gg/p4uRmCd)! We try to keep this as up to date as possible, but with multiple versions and different Forks it can be hard to keep up sometimes. If you're one of the developers of unknown OPKs let us know so we can add you!
 
