@@ -299,6 +299,7 @@ Zelda: Time to Triumph | Part Three of a Homebrew Zelda Trilogy | Unknown | Lega
 Project | Use-Case | Maintainer | Status | Data 
 ------- | -------- | ---------- | ------ | ----
 Bard | E-book Reader | @festvox | Inactive |  [Source](https://github.com/festvox/bard) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Bard.opk)
+Commander | a file manager | @glebm | Active | [Source](https://github.com/glebm/rs97-commander) [OPK](https://github.com/glebm/rs97-commander/releases)
 FFPlay | Video Player | @denis-n-kuznetsov | Inactive |  [Source](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/FFPlay.opk)
 Glutexto | Text Editor | @Ziz | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Glutexto.opk)
 GMU | Music Player | @denis-n-kuznetsov | Inactive | [Source](https://github.com/denis-n-kuznetsov/gmu) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/GMU.opk)
