@@ -56,7 +56,7 @@ A5200 | Atari 5200 | @alekmaul | Legacy | [OPK](https://github.com/retrogamehand
 CollecoD | ColecoVision | @alekmaul | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ColecoD(Explorer)_2013-06-15%20.opk)
 DinguxAtari | Atari5200/800 | @kerheol | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxAtari_2014-04-28.opk)
 DinguxVectrex | Vectrex | @kerheol | Inactive | [Source](https://github.com/kerheol/dingux-vectrex) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/DinguxVectrex_2014-05-21.opk)
-EasyRPG | RPG Maker 2000/2003 | @gameblabla | Active | [Source](https://github.com/carstene1ns/easyrpg-player) [OPK**](https://gameblabla.nl/files/ipk/gcw0/EasyRPG_gcw0_rg350.opk) | insert RTP-files into either: `~/.easyrpg/rtp2k` for RPG Maker 2000 or `~/.easyrpg/rtp2k3` for RPG Maker 2003
+EasyRPG | RPG Maker 2000/2003 | @gameblabla | Active | [Source](https://github.com/carstene1ns/easyrpg-player) [OPK](https://gameblabla.nl/files/ipk/gcw0/EasyRPG_gcw0_rg350.opk) | insert RTP-files into either: `~/.easyrpg/rtp2k` for RPG Maker 2000 or `~/.easyrpg/rtp2k3` for RPG Maker 2003
 FCEUX | NES | @soarqin | Active | [Source](https://github.com/soarqin/fceux-for-retrogame/) [OPK](https://github.com/soarqin/fceux-for-retrogame/releases) | Disk System games need Disk System Bios(disksys.rom) in here: `~/.fceux/`
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @Derynect | Active | [Source](https://github.com/Derynect/Genesis-Plus-GX) [OPK](https://github.com/Derynect/Genesis-Plus-GX/releases)
 GenesisPlusGX | SMS, Genesis/MD, SegaCD | @DavidKnight247 | Outdated | [Source](https://github.com/DavidKnight247/Genesis-Plus-GX) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/GenesisPlusGX_2016-02-29.opk)
@@ -308,6 +308,7 @@ GCWConnect | Wifi Settings (needs WIFI-Adapter) | skipmeister123 | Inactive | [S
 HWTest | Input Tester | @tonyjih | Inactive | [Source](https://github.com/tonyjih/RG350_input-test) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/HWTest.opk)
 ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-dingux-calculator) [OPK](https://github.com/Jakz/open-dingux-calculator/releases/)
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
+PdfViewer | PDF-Reader | @DavidKnight247 | Inactive |[Source](https://drive.google.com/file/d/0BwYi4RGX-HSaUVpaajlDRG9BSGc) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/PdfViewer.opk)
 Performance | Power Settings | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Performance.opk)
 SDL Terminal | Terminal | @Jamesofarrell | Active | [Source](https://github.com/jamesofarrell/st-sdl) [OPK](https://github.com/jamesofarrell/st-sdl/releases/tag/0.0.1)
 
