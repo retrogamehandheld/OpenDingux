@@ -308,7 +308,7 @@ GCWConnect | Wifi Settings (needs WIFI-Adapter) | skipmeister123 | Inactive | [S
 HWTest | Input Tester | @tonyjih | Inactive | [Source](https://github.com/tonyjih/RG350_input-test) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/HWTest.opk)
 ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-dingux-calculator) [OPK](https://github.com/Jakz/open-dingux-calculator/releases/)
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
-PdfViewer | PDF-Reader | @DavidKnight247 | Inactive |[Source](https://drive.google.com/file/d/0BwYi4RGX-HSaUVpaajlDRG9BSGc) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/PdfViewer.opk)
+PdfViewer | PDF-Reader | @DavidKnight247 | Inactive |[Source**](https://drive.google.com/file/d/0BwYi4RGX-HSaUVpaajlDRG9BSGc) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/PdfViewer.opk)
 Performance | Power Settings | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Performance.opk)
 SDL Terminal | Terminal | @Jamesofarrell | Active | [Source](https://github.com/jamesofarrell/st-sdl) [OPK](https://github.com/jamesofarrell/st-sdl/releases/tag/0.0.1)
 
