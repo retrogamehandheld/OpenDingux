@@ -76,6 +76,7 @@ SmallPCFX | PC-FX | @gameblabla | Inactive | [Source](https://github.com/gamebla
 SMS Plus GX | SMS, Genesis/MD, SegaCD | @gameblabla | Active | [Website](https://boards.dingoonity.org/retro-game-350rg-350/rg-350-emulatorsgame-ports/)
 SNES9X | SNES | @soarqin | Active | [Source](https://github.com/soarqin/snes9x/releases) [OPK](https://github.com/soarqin/snes9x/releases)
 Stella | Atari 2600 | @DavidKnight247 | Inactive | [Source](https://github.com/DavidKnight247/Stella-3.9.3) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Stella_2015-10-06.opk)
+tac08 | Pico-8 | @0xcafed00d | Active | [Source](https://github.com/0xcafed00d/tac08/) [OPK](https://0xcafed00d.itch.io/tac08-rg350)
 Temper | PCE/TG16 | @gameblabla | Inactive | [Source](https://github.com/gameblabla/temper) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/Temper_2017-08-08.opk) | (Optional) insert PCE Super System Card 3 Bios(syscard3.pce in here: `~/.temper/syscards/`
 TIC-80 | TIC-80 | @Steward | Active | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/TIC-80_2020-03-21.opk)
 3DOh | 3DO | @gameblabla | Inactive | [Source](https://github.com/gameblabla/3doh_gcw0) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/3DOh_2018-05-23.opk)
