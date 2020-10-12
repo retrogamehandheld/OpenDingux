@@ -145,6 +145,7 @@ Adamant Armor Affection Adventure | A 3-D Jump and Run | @0x64c | Inactive | [So
 Airball | A remake of the Atari ST Original Airball | Shin-NiL | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Airball.opk)
 Alex the Allegator 4 | A Port of Alex the Allegator 4 | @dmitrysmagin | Inactive | [Source](https://github.com/dmitrysmagin/alex4) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Alex%20the%20Allegator%204.opk)
 Alter Ego | A Bitbox emulation of Alter Ego | @dmitrysmagin | Inactive | [Source](https://github.com/gameblabla/bitbox-alterego-gcw0) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Alter%20Ego.opk)
+Another World | A sci-fi platformer by Eric Chahi | @jezze | Inactive | [Source](https://github.com/jezze/Another-World-Bytecode-Interpreter) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/AnotherWorld.opk) | Original BANK* and MEMLIST.BIN files must be put in: `~/.aw/`
 Apricots | A 2D arcade plane shooter | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Apricots.opk)
 Arkanoid | A Breakout! Port | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Arkanoid.opk)
 AstroLander | A lunar lander game | Unknown | Legacy |  [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/AstroLander.opk)
