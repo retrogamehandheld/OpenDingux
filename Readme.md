@@ -70,6 +70,7 @@ PCSX4ALL | Playstation | @tonyjih | Active | [Source](https://github.com/tonyjih
 PCSX4ALL | Playstation | @gameblabla	 | Active | [Source](https://github.com/gameblabla/pcsx4all/) [OPK](https://github.com/gameblabla/pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
 PCSX4ALL | Playstation | @soarqin	 | Active | [Source](https://github.com/soarqin/RG350_pcsx4all/) [OPK](https://github.com/soarqin/RG350_pcsx4all/releases) | (Optional) insert BIOS (1001.bin) here: `~/.pcsx4all/bios`
 PocketSNES | SNES | @soarqin | Active | [Source](https://github.com/soarqin/PocketSNES/) [OPK](https://github.com/soarqin/PocketSNES/releases)
+PocketSNES | SNES | @m45t3r | Active | [Source](https://github.com/m45t3r/PocketSNES/) [OPK](https://github.com/m45t3r/PocketSNES/releases)
 ProSystem | Atari7800 | @alekmaul | Inactive | [Source](https://github.com/alekmaul/prosystem) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/ProSystem(Explorer)_2019-12-17.opk)
 Retro8 | Pico-8 | @Jakz | Active | [Source](https://github.com/Jakz/retro8/) [OPK](https://github.com/Jakz/retro8/releases/)
 SmallPCFX | PC-FX | @gameblabla | Inactive | [Source](https://github.com/gameblabla/pcfx-mednafen) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Emulators/SmallPCFX_2018-08.14.opk)
