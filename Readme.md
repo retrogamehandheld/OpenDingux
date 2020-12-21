@@ -240,6 +240,7 @@ Thenesis Quake II |a Quake II Port | @Thenesis | Inactive | [Source](https://git
 Quake 3 | A port for Quake 3 | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Quake%203.opk) | Insert Quake 3 Files into `~/.q3a/`
 QuarterMaster | A remake of the World of Tanks Minigame | @hi-ban | Active | [Source](https://github.com/hi-ban/quartermaster/) [OPK](https://github.com/hi-ban/quartermaster/releases)
 REminiscence | A Flashback Engine Port | @ElwingGit | Inactive | [Source](https://github.com/ElwingGit/GCW0_REminiscence/) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/REminiscence.opk) | needs game files in: `~/.REminiscence/ data/`
+RgQuake | A Quake port with software renderer | @shpuld | Active | [Source](https://github.com/shpuld/rgquake) [OPK](https://github.com/shpuld/rgquake/releases)
 Rise of The Triad | A Rise of The Triad Port | @podulator | Inactive | [Source](https://github.com/podulator/RoTT) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Rise%20of%20The%20Triad.opk) | insert the Rise of the Triad: The Dark War (Registered Version) Data Files into: `~/.rott/data/`
 Ri-Li | A 2D wooden toy engine game | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Ri-Li.opk)
 Roadfighter | A Port of Roadfighter | Unknown | Legacy | [OPK**](https://rs97.bitgala.xyz/RG-350/localpack/extra_games/roadfighter.opk)
