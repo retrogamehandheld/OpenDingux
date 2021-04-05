@@ -278,6 +278,7 @@ SuperTux | 'THE' Super Mario Clone of Linux | @dmitrysmagin | Inactive | [Source
 Syobon Action | a Port of Syobon Action (aka Cat Mario) | @seagal | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Syobon%20Action.opk)
 Tail-Tale | A great action puzzle game port | @Shin-NiL | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tail-Tale.opk)
 Tappy Plane |  A "Flappy Bird" Clone with a plane | @MikeDX | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tappy%20Plane.opk)
+Tecnoballz | A Breakout or Arkanoid like game with a lot of bonus stages | @dmitrysmagin | Legacy | [Source](https://github.com/dmitrysmagin/tecnoballz/tree/gcw0) [OPK](https://github.com/JORGETECH/repackaged-opks/raw/main/tecnoballz-fixed.opk) | OPK linked here has been repackaged by @JORGETECH for it to work on newer OD firmwares.
 Tile World | A Puzzle Game, emulating Chip's Challenge | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Tile%20World.opk)
 Triple Trapled | An Arcade Game about collecting cubes | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Games%20%26%20Ports/Triple%20Trapled.opk)
 Tron-Clone | A recreation of the classic arcade game Tron | @Jamesofarell | Active | [Source](https://github.com/jamesofarrell/tron-clone) [OPK](https://github.com/jamesofarrell/tron-clone/releases)
