@@ -315,7 +315,7 @@ ODCalc | Calculator | @Jakz | Active |  [Source](https://github.com/Jakz/open-di
 Oldplay | Music Player | @the_gama | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Oldplay.opk)
 PdfViewer | PDF-Reader | @DavidKnight247 | Inactive |[Source**](https://drive.google.com/file/d/0BwYi4RGX-HSaUVpaajlDRG9BSGc) [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/PdfViewer.opk)
 Performance | Power Settings | Unknown | Legacy | [OPK](https://github.com/retrogamehandheld/OpenDingux/raw/master/Applications/Performance.opk)
-SDL Terminal | Terminal | @Jamesofarrell | Active | [Source](https://github.com/jamesofarrell/st-sdl) [OPK](https://github.com/jamesofarrell/st-sdl/releases/tag/0.0.1)
+SDL Terminal | Terminal | @glebm | Active | [Source](https://github.com/od-contrib/st-sdl) [OPK](https://github.com/od-contrib/st-sdl/releases)
 
 
 *Developer has not provided a new OPK for his source <br>
